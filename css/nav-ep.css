@@ -1,0 +1,132 @@
+
+a.nav-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10em;
+    height: 4em;
+    margin-left: 1em;
+    margin-bottom: 3em;
+    padding: 1em;
+    border: none;
+    border-radius: 3em;
+    background-color: rgb(35, 35, 36);
+    color: rgb(240, 240, 240);
+    cursor: pointer;
+    transition: all 0.5s;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+a.nav-btn:hover {
+    background-color: #000;
+}
+
+a.nav.btn span {
+    cursor: pointer;
+    position: relative;
+    transition: 0.5;
+}
+
+a.nav.btn span:after {
+    content: '\00AB';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: -1em;
+    transition: 0.5s;
+}
+
+a.nav.btn:hover span{
+    padding-left: 1.5em;
+}
+
+a.nav.btn:hover span:after {
+    opacity: 1;
+    left: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    width: 50em;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+}
+
+#apps {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr;
+    gap: 0.5em;
+    margin-top: 1em;
+    width: 70%;
+    
+}
+
+#navegation {
+    background-color: blueviolet;
+    width: 100%;
+}
+
+a.listen-on {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.2em solid rgb(35, 35, 36);
+    color: #000;
+    border-radius: 0.8em;
+    height: 2.5em;
+    width: 13em;
+    text-decoration: none;
+}
+
+img.app {
+    width: 3em;
+    height: 3em;
+}
+
+span.name-app {
+    font-family: Oxygen, sans-serif;
+    font-size: 1.2em;
+    font-weight: 100;
+    margin-left: -0.3em;
+}
+
+a.listen-on:hover {
+    background-color: rgb(35, 35, 36);
+    color: rgb(240, 240, 240);
+}
+
+#download-btn {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 4em;
+    margin-left: 3.5em;
+    border: none;
+    border-radius: 2em;
+    background-color: rgb(35, 35, 36);
+    color: rgb(240, 240, 240);
+    cursor: pointer;
+    transition: all 0.5s;
+    font-size: 1em;
+    font-family: Oxygen, sans-serif;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+#download-btn:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    #apps {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    }
+}

@@ -1,0 +1,87 @@
+nav {
+    margin-top: 2em;
+    display: flex;
+    justify-content:stretch;
+    
+}
+
+button {
+    display: inline-block;
+    width: 10em;
+    height: 4em;
+    margin-left: 1em;
+    border: none;
+    border-radius: 3em;
+    background-color: rgb(35, 35, 36);
+    color: rgb(240, 240, 240);
+    cursor: pointer;
+    transition: all 0.5s;
+    font-size: 0.9em;
+}
+
+button:hover {
+    background-color: #000;
+}
+
+button span {
+    cursor: pointer;
+    position: relative;
+    transition: 0.5;
+}
+
+button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -1em;
+    transition: 0.5s;
+}
+
+button:hover span{
+    padding-right: 1.5em;
+}
+
+button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+fieldset {
+    
+    padding: 0.5em;
+    color: rgb(35, 35, 36);
+}
+
+#apps {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 0.5em;
+    transform: translateX(30em);
+    margin-top: -0.5em;
+}
+
+a.listen-on {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(35, 35, 36);
+    color: rgb(240, 240, 240);
+    border-radius: 0.8em;
+    height: 2em;
+    width: 13em;
+    
+}
+
+img.app {
+    width: 2.5em;
+    height: 2.5em;
+}
+
+span.name-app {
+    font-family: Roboto;
+    font-size: 1em;
+    font-weight: 900;
+    margin-left: -0.5em;
+}

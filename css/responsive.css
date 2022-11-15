@@ -1,0 +1,170 @@
+@media (max-width: 1200px) {
+    #vol-controls {
+        margin-right: -1em;
+    }
+    #remove-player{
+        transform: translateY(3.4em);  
+        margin-right: -2em;
+    }
+
+    #player-container {
+        height: 8vh;
+    }
+}
+
+@media (max-width: 1000px) {
+    /* PLAYER*/
+    html {
+        font-size: 60%;
+    }
+
+    #player-container {
+        display:flex;
+        flex-direction: column;
+        justify-content:flex-start;
+        height: 8vh;
+        margin-left: 2rem;
+    }
+
+    #player {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        margin-top: -25px;
+    }
+
+    #controls {
+        grid-column-start: 3;
+        grid-column-end: 7;
+    }
+
+    #remove-player {
+        grid-column-start: 8;
+        margin-left: 5em;
+    }
+
+
+    #episode h2 {
+        font-size: 1.3rem;
+        padding: 0;
+        margin: 0;
+    }    
+
+    #episode {
+        margin-top: -1.3em;
+        margin-bottom: 0;
+    }
+
+    #duration {
+        width: 100%;
+        padding: 0;
+        margin-top: 4px;
+        font-size: 1rem;
+        margin-bottom: 0.3rem;
+    }
+
+    #time {
+        width: 70%;
+        align-self: flex-start;
+        font-size: 1.2em;
+        padding-top: 1rem;
+    }
+
+    #seek-bar {
+        width: 70% ;
+    }
+
+    #seek-bar,
+    #progress {
+        height: 0.3em;
+        
+    }
+    #vol-controls {
+        align-self: flex-end;
+        margin-top: -5em;
+        margin-right: 2em;
+        
+    }
+}
+
+@media (max-width: 768px) {
+    html {
+        font-size: 55%;
+    }
+
+    #name-description p {
+        font-size: 1.5em;
+    }
+
+    #post{
+        margin-top: 1em;
+        width: 90%;
+        padding: 0 0 0 10%;
+    }
+    pre {
+        margin-top: 2em;
+    }
+    #vol-controls {
+        margin-right: 5em;
+        margin-top: -5em;
+    }
+}
+
+
+@media (max-width: 700px) {
+    #box {
+        flex-direction: column;
+    }
+
+    img.cover {
+        width: 220px;
+    }
+
+    #name-description {
+        order: 2;
+    }
+
+    #name-description,
+    #name-description p {
+        margin-top: 2em;
+    }
+
+    #name-description p {
+        width: 100%;
+    }
+
+    #post  {
+        width: 90%;
+        padding: 0 0 0 10%;
+        margin-left: 0;
+    }
+
+    pre {
+        margin-top: 1em;
+    
+    }
+}
+
+@media (max-width: 425px) {    
+    html {
+        font-size: 55%;
+    }
+    #vol-controls {
+        display: none;
+    }
+
+    #post {
+       
+        padding: 10%;
+    } 
+
+    #up-btn {
+        width: 2em;
+        height: 2em;
+        margin-right: 1.5em;
+    }
+
+    #float-banner {
+        margin-right: 2em;
+    }
+
+
+}
