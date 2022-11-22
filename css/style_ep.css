@@ -240,9 +240,9 @@ footer {
     width: 100%;
 }
 
-footer h4 {
-    font-family: Alegreya, sans-serif;
-    font-size: 1.7rem;
+footer img {
+    width: 30em;
+    margin-top: -3em;
 }
 
 #notification {
