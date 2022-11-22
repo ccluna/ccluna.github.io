@@ -1,535 +1,531 @@
-    <pre id="transcription">
-        
-      [Início da transcrição]
+<pre id="transcription">
+      
+    [Início da transcrição]
 
-      [sobe trilha]
-      [desce trilha]
-      
-      <span class="b">Claudia:</span> Salve agraciados do mundo inteiro e de outros mundos também! E sejam muito bem-vindos ao primeiríssimo episódio do Admirável Cristão Novo!
-      
-      [Aplausos, fogos de artifício e crianças felizes]
-      
-      <span class="b">Claudia e Raafa comemoram:</span> Ê!
-      
-      [Risos]
-      
-      <span class="b">Claudia:</span> Eu sou a Claudia Luna e eu estou aqui com meu firemigo [amigo] Raafa Beringui. Diga olá Raafa!
-      
-      <span class="b">Raafa:</span> Salve, salve galera! Prazerzão tá aqui viu Lu. Muito prazer mesmo!
-      
-      <span class="b">Claudia:</span> O prazer é meu. 
-      
-      -//-
-      
-      <span class="b">Claudia:</span> Já que o… o estopim para esse episódio foi o tal do Among Us, [<span class="b">Raafa:</span> Uhn] imagine a cena: você tá lá, tripulante de boa fazendo as suas tarefas. Aí, você tem um cara que tá sempre querendo arrumar eh... álibi contigo, e você tá sempre dando [<span class="b">Raafa:</span> Un-hum] porque, tipo assim, o jogo começou faz, sei lá, umas três rodadas. E tipo, ainda não tinha muito como desconfiar do cara. E aí quando tu tá lá naquela fa... naquela... naquela tarefa chatona lá da memória, o cara vai lá e friamente te dá uma facada nas costas.
-      
-      <span class="b">Raafa:</span> Uhn.
-      
-      <span class="b">Claudia:</span> Sabe qual é a música que toca nesse momento?
-      
-      <span class="b">Raafa:</span> Qual?
-      
-      [entra um áudio]
-      <span class="i">
-        Você pagou com traição a quem sempre lhe deu a mão
-        Você pagou com traição a quem sempre lhe deu a mão
-      </span>
-      [entra um áudio]
+    [sobe trilha]
+    [desce trilha]
+    
+    <span class="b">Claudia:</span> Salve agraciados do mundo inteiro e de outros mundos também! E sejam muito bem-vindos ao primeiríssimo episódio do Admirável Cristão Novo!
+    
+    [Aplausos, fogos de artifício e crianças felizes]
+    
+    <span class="b">Claudia e Raafa comemoram:</span> Ê!
+    
+    [Risos]
+    
+    <span class="b">Claudia:</span> Eu sou a Claudia Luna e eu estou aqui com meu firemigo [amigo] Raafa Beringui. Diga olá Raafa!
+    
+    <span class="b">Raafa:</span> Salve, salve galera! Prazerzão tá aqui viu Lu. Muito prazer mesmo!
+    
+    <span class="b">Claudia:</span> O prazer é meu. 
+    
+    -//-
+    
+    <span class="b">Claudia:</span> Já que o… o estopim para esse episódio foi o tal do Among Us, [<span class="b">Raafa:</span> Uhn] imagine a cena: você tá lá, tripulante de boa fazendo as suas tarefas. Aí, você tem um cara que tá sempre querendo arrumar eh... álibi contigo, e você tá sempre dando [<span class="b">Raafa:</span> Un-hum] porque, tipo assim, o jogo começou faz, sei lá, umas três rodadas. E tipo, ainda não tinha muito como desconfiar do cara. E aí quando tu tá lá naquela fa... naquela... naquela tarefa chatona lá da memória, o cara vai lá e friamente te dá uma facada nas costas.
+    
+    <span class="b">Raafa:</span> Uhn.
+    
+    <span class="b">Claudia:</span> Sabe qual é a música que toca nesse momento?
+    
+    <span class="b">Raafa:</span> Qual?
+    
+    [entra um áudio]
+    <span class="i">
+      Você pagou com traição a quem sempre lhe deu a mão
+      Você pagou com traição a quem sempre lhe deu a mão
+    </span>
+    [entra um áudio]
 
-      [Risos]
-      
-      <span class="b">Raafa:</span> Ah! Deixa eu me recompor.
-      
-      -//-
-      
-      <span class="b">Raafa:</span> Mas aí, a questão que fica é a seguinte: tem como confiar em alguém dentro desse joguinho? 
-      
-      <span class="b">Claudia:</span> Literalmente não. Eu acho…  não sei... 
-      
-      <span class="b">Raafa:</span> O jogo... eu... o… o Among Us é um jogo que foi feito para você mentir. Ó, eu vou contar… eu quero contar uma história que aconteceu no Among Us. Não foi comigo, mas é uma história que eu acho que vale muito a pena ser contada, se você permitir eu contar essa história.
-      
-      <span class="b">Claudia:</span> Certo,  pode contar.
-      
-      <span class="b">Raafa:</span> Um amigo meu. Aliás, uma amiga minha — e ela já é mãe — e ela não... não entende desse mundo dos games. Mas o Among Us, como é um jogo muito interativo, ela decidiu entrar nesse mundo dos games, e foi jogar Among Us com filho dela de 5 anos de idade. E o menino foi ensinar a mãe dele a jogar e falou assim, ó: “Mãe anda só comigo. Anda só comigo, porque eu vou te ensinar como é que joga.” E os dois andam juntos até o final do jogo. Chegou no final do jogo, ele matou ela e ganhou de impostor. 
-      
-      [Risos da Claudia]
-      
-      <span class="b">Claudia:</span> Meu Deus… [Risos do Raafa] Aí agora ela descobriu que o filho dela não é esse santinho não! 
-      
-      <span class="b">Raafa:</span> Não dá! Não dá pra confiar nem no seu filho de 5 anos! É a geração que vai aprender a mentir muito cedo.
-      
-      <span class="b">Claudia:</span> Os partidos políticos no futuro tá… tá tudo garantido já.
-      
-      <span class="b">Raafa:</span> É! Com certeza.
-      
-      [sobe trilha]
-      <span class="i">
-        Beijos
-        Beijos
-        Beijos
-        Beijos nem sempre são
-        O que parecem
-        
-        Beijando-lhe o rosto
-        Fingindo-se amigo
-        Judas a Cristo traiu
-        
-        Beijando-lhe o rosto
-        Fingindo-se amigo
-        Judas a Cristo traiu
-      </span>
-      [desce trilha]
-      
-      [Trilha]
-      
-      <span class="b">Claudia:</span> Passado o <span class="i">hype</span> do Among Us — porque eu acho que o <span class="i">hype</span> do Among Us já acabou. Ou não?
-      
-      <span class="b">Raafa:</span> Ou não? Será? Te… Tem alguns que estão só começando ainda.
-      
-      <span class="b">Claudia:</span> Mas antes de, tipo, há umas três semanas atrás, estava mais, né?
-      
-      <span class="b">Raafa:</span> Eh. Não. Com certe… com certeza o <span class="i">hype</span> do jogo [<span class="b">Claudia:</span> O <span class="i">hype</span> já foi.] ele… ele passa muito rápido, né? Então acho que, tipo, o pico, o pico de acesso do Among Us com certeza já terminou, mas tem uma galera ainda que tá fazendo os números do Among Us, na Twitch pelo menos, subir bastante. 
-      
-      <span class="b">Claudia:</span> Até porque o Among Us, ele não é... um jogo também que tem muita coisa também para tu fazer. Tipo, [<span class="b">Raafa:</span>  Ã-hã!] é só aquele jogo de você juntar os amigos — quando você tem amigos — [Risos do Raafa] pra vocês ficarem se matando, mentindo uns pros outros, e é isso. Tem até gente que inventa os modos aí, mas eles são meio sem graça, né. Mas aí, o <span class="i">hype</span> já foi.
-      
-      <span class="b">Raafa:</span>  Eu acho legal do Among Us é essa interação: o jogo de forçar a… a ter que conversar, a ter que debater. A...  a mexer com seu cérebro, a cri… a  treinar uma parte do seu cérebro, sabe?
-      
-      <span class="b">Claudia:</span> Diga mais sobre isso.
-      
-      <span class="b">Raafa:</span> Tipo assim, eh… Assim, eu vou falar por mim, né, mas eu não sou a pessoa que tô acostumada a sair mentindo o tempo inteiro. Então a primeira vez que eu joguei de impostor foi um terror para mim, porque eu não sabia... eu não sabia mentir no jogo. Eu passava perto de alguém eu falava assim, olha: “Eu tenho que decorar o meu percurso todinho e marcar tudo que eu fiz, todo mundo que eu vi, pra chegar na hora e talvez nem seja isso que eu tenha que falar, porque se eu falar a verdade talvez eu me entregue”. Entendeu? Então a primeira vez que eu fui impostor, mano, eu fiquei numa sinuca de bico, porque eu vi que eu não sei mentir. Que a mentira, apesar de ser algo que tá aí na... presente na vida de todo mundo; todo mundo mente. Mas não é fácil mentir não, viu? Não é muito fácil mentir não.
-      
-      <span class="b">Claudia:</span> Não é muito fácil? Depende da pessoa, né?
-      
-      -//-
-      
-      <span class="b">Claudia:</span> Na primeira vez que eu fui impostora, lá naquele cantinho mágico da Elétrica, [Risos do Raafa] eu ventei na frente do cara.
-      
-      <span class="b">Raafa:</span> Ahn.
-      
-      <span class="b">Claudia:</span> Eu fui apertar o botão de <span class="i">kill</span> e apertei o botão de <span class="i">vent</span>. [<span class="b">Raafa:</span> Boa!] Aí me deu uma crise de riso que eu não consegui sair. Aí [Risos do Raafa] reportaram um corpo lá longe e eu fiquei dentro do... da <span class="i">vent</span>. Aí eu saí me entregando, sabe? “Putz, o cara me viu aqui na <span class="i">vent</span> e não sei o quê”. Mas aí, quando eu olhei para a tela do meu computador, o cara tinha morrido! 
-      
-      <span class="b">Raafa:</span> Nossa! 
-      
-      <span class="b">Claudia:</span> Cara, eu podia só ficar de boa! E eu acho que ele nem me viu! Que ele devia tá fazen… lá... na... era <span class="i">download</span>. Eu acho que ele nem me viu ventando!
-      
-      <span class="b">Raafa:</span> Com certeza ele não te viu ventando, porque a tela de <span class="i">download</span> [<span class="b">Claudia:</span> Ã-hã!] é bem grande…
-      
-      <span class="b">Claudia:</span> Não tem como! Mas aí tu vai jogando, você vai se liberando, vai se soltando. Aí desperta o carioca de dentro de você.
-      
-      <span class="b">Raafa:</span> Vai criando o hábito de mentir. É isso que você tá querendo dizer? Você… você aprende a mentir jogando Among Us?
-      
-      <span class="b">Claudia:</span> Eu não acho que você aprende a mentir. Tipo, se você tiver uma predistida… opa!
-      
-      [Corte abrupto no áudio]
-      
-      <span class="b">Claudia:</span> Uma… Como é que é a palavra? É…
-      
-      <span class="b">Raafa:</span> Predestinado...
-      
-      <span class="b">Claudia:</span> Se você tiver uma... inclinação... [<span class="b">Raafa:</span> Predisposição] Isso! 
-      
-      [Corte abrupto do áudio]
-      
-      <span class="b">Claudia:</span> Predisposição. Uma inclinação à mentira, você vai virar um mentiroso nato. Porque tu vai começar a aprender que, pra tu mentir, tem que observar a tua volta pra você poder montar a melhor história na tua cabeça pra você poder contar. Mas, se você for um péssimo mentiroso, ainda dá pra você pegar essa manha de, tipo, tu já sair metendo o louco. Tipo, você aprende a ser convincente. Não é nem ser mentiroso, porque se você passa confiança, as pessoas vão acreditar que o outro cara que matou reportou. 
-      
-      <span class="b">Raafa:</span> Faz toda diferença você ter uma imposição, né [<span class="b">Claudia:</span> Exatamente.] uma postura vocal boa, porque você compra! Você às vezes não precisa nem ser mentiroso mesmo. Se você tiver uma postura legal, você compra as pessoas com... com a sua ideia, com a sua falácia, né? Vamos supor: o cara reportou o corpo na frente do outro e ele viu ele matando. O cara que... que falar primeiro ali ele já ganha uma frente ou não? 
-      
-      <span class="b">Claudia:</span> Vai depender de como ele tava no jogo antes eu acho. Para mim depende. Se ele é um cara que o pessoal já tava desconfiando, sem dúvida ele é um assassino. [<span class="b">Raafa:</span> Ã-hã.] A não ser que, tipo, se são duas pessoas: eu você que... que a gente já tá tretando antes, mas eu sou impostora, eu matei na sua frente e você reportou. Mas como a gente já tava se acusando antes, aí complica um pouco pro pessoal poder decidir quem vai tirar. 
-      
-      <span class="b">Raafa:</span> Nesse caso tira os dois. Eu acho que tira os dois.
-      
-      <span class="b">Claudia:</span> Mas eu acho mui- é muito... é muito anticlimático. Tipo: “Ah! Vamos tirar primeiro o Rafa; depois a gente tira Claudia. A gente bate lá o botão tira Claudia!” [<span class="b">Raafa:</span> É, com certeza.] Isso é tão broxante!
-      
-      -//-
-      
-      <span class="b">Claudia:</span> O Among Us, ele a… ele…  ele ensina a gente várias coisas na real.
-      
-      <span class="b">Raafa:</span> Não, é… era o que eu ia complementar isso. Ele realmente ensina a gente várias coisas. A gente... a gente aponta, né, a mentira; que ensina a gente mentir ou que obriga a gente a mentir. Mas o… é aquilo que eu falei no início: o Among Us, ele é um jogo interativo, então ele meio que gera até amizades, cara. Eu tô num servidor aleatório do Among Us, tem 20 mil pessoas e eu já jogue... eu já fiz algumas amizades que eu adicionei no discord, sabe? De uma galera aqui. Então eu acho… eu acho que o Among Us, apesar de o jogo simples 2D, que seria facilmente jogado no Super Nintendo, veio para revolucionar aí, mano, os games.
-      
-      [Risos da Claudia]
-      
-      <span class="b">Claudia:</span> Revolucionar já é meio forte, não é não? 
-      
-      <span class="b">Raafa:</span> Foi forte! Foi forte, mas tipo, [<span class="b">Claudia:</span> Foi um pouco forte…] ele forçou… ele forçou um outro tipo de <span class="i">gameplay</span> que a galera não tava acostumada a jogar. Quem já jogou o famoso Cidade Dorme sabe do que eu tô falando.
-      
-      <span class="b">Claudia:</span> E eu claramente não sei do que você tá falando!
-      
-      <span class="b">Raafa:</span> Nunca jogou Cidade Dorme? [<span class="b">Claudia:</span> Nã…] É o Among Us eh… tipo, pessoalmente. Você joga com seus amigos. Lembra do “Detetive”?[<span class="b">Claudia:</span> Eu nunca nem ouvi falar disso.] Lembra do “Detetive”?
-      
-      <span class="b">Claudia:</span> Ahn? 
-      
-      <span class="b">Raafa:</span> Aquele jogo que você tem que piscar e a pessoa morre?
-      
-      <span class="b">Claudia:</span> Ã-hã!
-      
-      <span class="b">Raafa:</span> É basicamente isso, só que ele [Cidade Dorme] é realmente mais parecido com o Among Us. Por quê? Porque o narrador do jogo escolhe quem vai ser os assassinos, quem vai ser… — só que tem um investigador — quem vai ser o investigador; quem vai ser cada função lá. E aí, durante o jogo, o narrador do jogo diz: “Cidade dorme.” Todo mundo abaixa a cabeça. E aí, vai levantando de acordo com o narrador fala, ó: “Os assassinos acordem.” Aí só os assassinos levanta a cabeça e mata alguém. Aí o advogado, que é o investigador, levanta e investiga alguém. E aí o narrador fala pra ele se quem ele investigou é do bem ou do mal. Depois que ele faz todo esse projeto aí durante a madrugada, em que só quem ele chama levanta a cabeça, ele fala: “Cidade acorda”; e ele fala quem morreu na noite. Ele fala, ó: “Fulano morreu na noite.” E aí começa uma discussão pessoal para tentar descobrir quem que foi o... quem são os dois assassinos ou quem é o único assassino que matou durante a madrugada. E o advogado — é claro — ele bate no peito e fala, ó: “Eu sou o advogado! Eu investiguei Fulano essa noite e o narrador disse que Fulano é do bem.” Agora se, caso ele já investiga de cara; aponta uma pessoa e for do mal, ele fala também. Só que aí, o inves... os... assassinos, eles têm que ter a lábia da mentira também: “Não! Eu…” Ele bate no peito e fala: “Eu sou investigador; eu investiguei Fulano; e Fulano é do mal!” Entendeu? Então, é um Among Us da vida real e é muito bom de jogar!
-      
-      <span class="b">Claudia:</span> Eu Nunca nem ouvi falar nisso…
-      
-      <span class="b">Raafa:</span> Aconselho a [Risos da Claudia] procurar sobre e arrumar amigos para jogar.
-      
-      <span class="b">Claudia:</span> A parte do “arrumar amigos” é mais difícil [Risos do Raafa], mas tudo bem!
-      
-      [Risos da Claudia]
-      
-      [Trilha]
-      
-      [Trilha]
-      
-      <span class="b">Claudia:</span> Então a grande questão desse programa, querido Rafa, é: Among Us é um jogo jogável para cristãos ou é uma armadilha de Satanás para mandar os jovens crentes para o inferno?
-      
-      <span class="b">Raafa:</span> Então, a gente vai entrar numa questão bem religiosa, na minha opinião envolve muita religiosidade. É, dentro de um conjunto de regras eu acho que o Among Us é completamente jogável por qualquer pessoa. Porque você… você só– vamos dar um exemplo, você só comete pecado dentro do Among Us se você fizer alguma coisa que está fora das regras do Among Us. Então quando um jogador, vamos supor, de futebol, é cristão e ele simula uma falta, será que ele tá pecando ali ou ele está apenas seguindo as regras do jogo? Se foi errado simular falta, tudo bem. Agora se ele pode se aproveitar da vantagem do juiz achar que aquilo ali foi falta, ele não tá errado porque faz parte das regras do jogo. Então, a mentira dentro do Among Us faz parte, ela está na regra do jogo. O que seria entre aspas, na minha opinião, "pecado" dentro do Among Us: você baixar uma versão hack do jogo, porque isso vai contra as regras do jogo. Então, na minha opinião, é completamente jogável por qualquer pessoa. Você não tá aplicando aquilo ali na sua vida espiritual, na sua vida real, sabe? Pelo menos eu, o que acontece ali, acaba ali e, tipo, não me induziu a sair mentindo por aí na vida real. Então é uma… é uma mentira que faz parte das regras do jogo. Como todo jogo tem suas regras, as regras do Among Us é essa e eu não me sinto culpa-, eu não termino de jogar e vou pedir perdão a Deus por porque eu menti no Among Us.
-      
-      <span class="b">Claudia:</span> É, até porque, tipo, mentir no Among Us não necessariamente fez um mal a outra pessoa… A não ser que foi um tripulante inocente que foi ejetado da nave porque você mentiu!
-      
-      [Risos do Raafa]
-      
-      <span class="b">Raafa:</span> Parece que foi com o coração. [Risos da Claudia]. Mas a função do impostor é exatamente esta: de expulsar, de fazer todo mundo acreditar que você é que é o impostor.
-      
-      <span class="b">Claudia:</span> Então por um instante no jogo a gente vira o filho do capeta, [Raafa tentando falar], porque ele veio pra matar, roubar e destruir! E é isso que o impostor faz no Among Us: ele mata as pessoas, ele rouba… eu não sei que ele rouba, mas ele rouba! Ele rouba a sanidade das pessoas porque você tem que ficar prestando atenção nas suas tarefas e ainda tem que ficar prestando atenção nos outros cara lá pra tu saber quem é o impostor! E ele destrói, amizades são destruídas naqueles 10 minutos de partida. [Risos da Claudia].
-      
-      <span class="b">Raafa:</span> Essa é a… provavelmente o que um religioso falaria.
-      
-      [Risos da Claudia].
-      
-      <span class="b">Claudia:</span> Não é? [Risos da Claudia]. [<span class="b">Raafa:</span> Definitivamente]. Eu sou uma boa religiosa.
-      
-      <span class="b">Raafa:</span> É, cê disfarça bem, tá jogando bastante Among Us.
-      
-      <span class="b">Claudia:</span> Tô. 
-      Eu acho que o grande lance não é nem o incentivo à mentira que esse jogo faz. Um ensinamento, olha só, um ensinamento que eu tirei com Among Us é: saiba aproveitar as oportunidades. [Raafa tentando falar]. Não, porque sempre vai ter o cara que fala demais. Que fica acusando todo mundo toda hora… esse cara aí, dependendo de como que ele fala, né, porque como a gente já discutiu aqui, é importante você ter confiança na hora que você tá falando, se esse cara ele não tiver essa confiança, ele vai ser sempre o cara suspeito. [<span class="b">Raafa:</span> É.]. E, tipo, não mata esse cara na primeira, porque esse cara vai poder ser um bom bode expiatório depois, no final. Sabe, tem muita coisa, muito lance de observação que você faz pra você poder se sair bem. Obviamente: tire do Among Us somente os aprendizados bons, porque passar por cima das pessoas para arrumar emprego não é coisa de crente não. Passar em cima do cara lá no Among Us é legal e pode? Pode. Mas na vida, não pode fazer isso.
-      
-      <span class="b">Raafa:</span> Essa é a separação que tem que existir. É um conjunto de regras onde aquilo ali é permitido. Na vida real são outros conjuntos de regras a qual o Among Us não se aplica, então não pode.
-      
-      <span class="b">Claudia:</span> Mas, por exemplo, o cara... vamos pegar o exemplo do filho do pastor. O filho do pastor [<span class="b">Raafa:</span> Hãm.] não deveria ficar mentindo por aí, né? A gente espera.
-      
-      <span class="b">Raafa:</span> Não, nem o filho do pastor, nem o filho da-
-      
-      <span class="b">Claudia:</span>  Não, mas é porque o filho do pastor tem mais peso, né. [<span class="b">Raafa:</span> Tá]. Beijo, Sarinha. [Risos do Raafa]. Ele… ele não, não é de mentir, sabe? Ele é o filho pastor, ele não mente. Aí ele começa a jogar Among Us, aí ele pega as manhas... Aí ele vai pegando, tipo, o gosto de tá lá jogando e de ser o impostor e de ficar mentindo pra caraca, o tempo todo... Aí vamos supor que, tipo, ele se deixa tanto assim… se levar pelo jogo que daí ele acaba absorvendo pra vida dele. Então, no caso, esse cara ele tem um risco- um cara que não mente, sabe, não mente. Ele tem o risco de virar um mentiroso compulsivo no Among Us?
-      
-      <span class="b">Raafa:</span> Esse jogo é um problema pra esse cara, e não só esse jogo. Qualquer… assim, o que que eu acho que é errado: qualquer coisa que te induz a fazer aquilo na vida real no caso de jogo, então o Among Us ele é perigoso pro cara que pode ser um mentiroso compulsivo assim como o GTA é <ispan class="i">prum</ispan> psicopata! Entende? É errado o jogar GTA, atropelar as velhinhas na rua? [Risos da Claudia]. Eu não acho que seja, mas quando você pega aquilo ali e fala: "seria legal fazer isso aqui na rua de casa", aí é um problema, cara. Aí é um problema. É por isso que eu acho que não é um problema você jogar ele, só que quando ele passa a querer entrar na sua vida pessoal, aí tudo é um problema. Tudo é um problema.
-      
-      <span class="b">Claudia:</span> E será que o mentiroso compulsivo tem chances no Among Us?
-      
-      <span class="b">Raafa:</span> Eu vou te falar que, assim, eu conheço pessoas que mentem inacreditavelmente bem e na cara de pau, tipo, de você saber que é mentira mas o cara não tá nem aí, ele vai mentir porque só você sabe ali, se você falar alguma coisa é sua palavra contra a dele então ele vai bater na verdade dele, mesmo você sabendo que é mentira. Então, eu já-, não, não convidei porque seria muita <span class="i">cara de pauzisse</span> minha falar: "Nossa, você seria um excelente jogador de Among Us!", mas eu conheço pessoas que me dá vontade de falar assim: "Cara, você jogaria esse jogo maravilhosamente bem.". Eu já tive vontade de convidar certas pessoas pra jogar pra ver como que a pessoa se sairia mentindo aqui. E são pessoas que, que nem eu falei, têm a posição, têm a postura de falar e todo mundo ser ludibriado pela pessoa.
-      
-      <span class="b">Claudia:</span> Mas, assim, mentir pro nada é tranquilo, é só tu falar uma coisa que não é verdade. Mas, agora, você tá num lugar que você é basicamente obrigado a mentir... será que rola?
-      
-      <span class="b">Raafa:</span> Tá em casa. Tipo, ela tá no ambiente onde ela mais precisa fazer o que ela sabe.
-      
-      <span class="b">Claudia:</span> É, a profissão… se mentir fosse uma profissão, o cara tava rico.
-      
-      <span class="b">Raafa:</span> Olha, com certeza. Eu consigo imaginar certas pessoas jogando e se saindo muito bem, não por causa da mentira, mas porque tem a imposição, cara, tem a postura de falar e as pessoas acreditar.
-      
-      <span class="b">Claudia:</span> É aquele negócio de ser convincente.
-      
-      [sobe trilha] 
-      <span class="i">
-        Alegria, veio quando eu acordei
-        Ele me ouviu, e a mágoa retirou
-        Fortaleceu meus pés me levantou
-      </span>
-      [desce trilha]
-      
-      [sobe trilha]
-      <span class="i">
-        Pull your window down
-        Tinted glass is hiding your eyes
-        It's your favorite disguise
-        
-        Tradução:
-        Abaixe a sua janela
-        Óculos coloridos escondem seus olhos
-        É o seu disfarce favorito
-      </span>
-      [desce trilha]
-      
-      <span class="b">Claudia:</span> O Among Us é o- se tornou o pai da mentira. [Risos do Raafa]. Né, mas temos as outras mentirinhas, né, as tais das mentiras sociais, o tal do "Li e concordo com os termos", sendo que você não leu os termos.
-      
-      <span class="b">Raafa:</span> Então, é, aí eu te faço uma pergunta sobre isso: isso é uma mentira?
-      
-      <span class="b">Claudia:</span> Você tá falando que você leu o bagulho e concorda, mas você não leu, e se você lesse você não ia concordar, né, mas você só quer, sei lá, entrar na rede social. O que que ela vai fazer com os meus dados? Não importa, eu só quero entrar e eu não vou ler pra eu não desistir. Mas, aí, uma pergunta assim: quando eu minto no "Li os termos", quando eu minto pra isso, eu não tô mentindo pra alguém ou eu tô mentindo pra alguém? E se eu não estou mentindo pra alguém, é uma mentira?
-      
-      <span class="b">Raafa:</span> Eu acho que você tá mentindo pra alguém.
-      
-      <span class="b">Claudia:</span> Além de ser pra você mesmo.
-      
-      <span class="b">Raafa:</span> É, você tá mentindo pra alguém e essa pessoa pode ter escrito o que ela quiser ali e você, é… Eu acabo me contradizendo um pouco quando eu perguntei se era uma mentira porque é, realmente é uma mentira sim porque você tá dando liberdade pra pessoa fazer o que ela quiser dependendo do que ela colocou ali. Então, é, na maioria dos aplicativos hoje eles te pede permissão pra acessar lista de contatos, acessar galeria… Todo aplicativo que você acessa tem isso. Então você não sabe o que que é aquilo ali, você não sabe quando aceita os Termos de Uso, é, porque que ele tá pedindo acesso à sua galeria e você, será que você concordaria mesmo se você soubesse o motivo de que eles tão querendo acessar a sua galeria ou sua lista de contatos? Então realmente é uma menti-
-      
-      <span class="b">Claudia:</span> Eu nunca li os termos mas, assim, ele diria porque que eu tenho que dar acesso pra ele?
-      
-      <span class="b">Raafa:</span> Eu acho que ele... não sei se diria explicitamente mas ele daria uma volta só pra dizer que ele precisa do acesso à sua câmera, porque não faz sentido ele pedir acesso a sua câmera e não… e pelo menos não dizer pra que que ele quer usar. Sei lá… é, importar seus contatos pra dentro do aplicativo, um exemplo: "Ah, a gente quer acessar sua lista de contatos porque nós precisamos sincronizar os seus contatos com a sua conta", um exemplo: "Ah, nós precisamos de acesso ao seu microfone porque lá dentro você tem acesso a gravação de áudio". Só que tem programas que não usam isso [<span class="b">Claudia:</span> Sim], não usam gravação. [<span class="b">Claudia:</span> Esse é o ponto]. E ele pede permissão do telefone… do microfone.
-      
-      <span class="b">Claudia:</span> Tem um aplicativo que pede permissão do microfone e, tipo, ele nem tem função de áudio. [<span class="b">Raafa:</span> Exato]. É, tipo, por que que você quer isso, mano? 
-      
-      <span class="b">Raafa:</span> Tinha que ser explicado. Eu nunca li os Termos do Contrato, é uma mentira a gente aceitar esses termos sem ler e… mas eu imagino que eles devem explicar ou pelo menos teriam que explicar o porquê que eles pedem esse acesso.
-      
-      <span class="b">Claudia:</span> Mas é claro que ele vai colocar lá: "Vamos pedir a permissão do seu microfone pra gente ouvir as tuas conversas quando você tá conversando com as pessoas aí no mundo real pra gente descobrir se… quando você for um bandido pra gente te denunciar para o FBI". [<span class="b">Raafa:</span> Entendi]. Teve um dia, faz um tempão já, que eu fiquei um pouco perturbada da minha cabeça. Eu tô entrando numa parada nova, aí eu vou lá: clico no "Li e Concordo" sem ter lido e concordado com nada, Jesus volta naquele momento que eu dei o "Ok". [<span class="b">Raafa:</span> Isso é um problema]. Eu fiquei maluca da minha cabeça, tipo, eu vou ou fico? Eu acho que eu fico, porque eu não li. Mas, puts grilo, eu vou perder a minha, a minha salvação porque eu não li os termos? Isso seria justo, Jesus? Mas ele falou que, [Risos do Raafa] que os mentirosos não herdarão o Reino! E eu, ai, tipo, deu um nó que eu sonhei, mano, depois. E foi, tipo, horrível.
-      
-      <span class="b">Raafa:</span> É, complicado, ainda bem que a salvação é pela graça.
-      
-      <span class="b">Claudia:</span> Aí agora eu só passo o olho, tá ligado? Eu passo o olho, aí eu dou um "Ok". Eu continuo sem ler mas eu pelo menos vi as coisas que estão escritas.
-      
-      <span class="b">Raafa:</span> Eu leio os títulos porque esses termos costumam ter vários subtítulos, aí você vai descendo, aí tem sobre, é, "Uso do Aplicativo", aí cê desce mais tem "Termos e Condições de, sei lá, de <span class="i">download</span>", um exemplo só [<span class="b">Claudia:</span> Uhum], e aí eu leio aqueles subtítulos. O que eu acho interessante, por exemplo, é, assim, quando você cria uma conta no YouTube você tem que ler os Termos, né? Eu li sobre... uma coisa que eu li nos temos do YouTube que era a respeito da monetização de vídeo: que o que que é permitido monetizar, o quê que não é, o que que causa desmonetização do vídeo, e tal, isso eu li. Aí… e aí o que eu faço é isso: é ler os subtítulos dos termos e ler um pouco do que realmente me interessa.
-      
-      [sobe trilha]
-      [desce trilha]
-      
-      <span class="b">Claudia:</span> Vamos, vamos para as mentiras sociais.
-      
-      <span class="b">Raafa:</span> Ó, tem uma muito boa que é a famosa "já  já tô chegando aí!". [Risos da Claudia]. E aí? E aí eu vou pro mesmo lado que você: "já já tô chegando aí", você nem saiu de casa ainda. Aí Jesus volta na hora, e aí? E aí? Vai ser imputado sobre você essa mentirinha?
-      
-      <span class="b">Claudia:</span> Não! Eu não saí [Raafa tentando falar] mas eu vou sair, então já estarei lá. Eu não saí agora, mas eu vou estar lá.
-      
-      <span class="b">Raafa:</span> E o seu coração que sabe que você quis dizer que já tava chegando, mas na verdade você nem saiu de casa ainda? Outro exemplo: "Já tô no caminho!",  aí você tá tomando banho. Você mandou… você mandou debaixo do chuveiro que tava no caminho e tipo, a pessoa não sabe que você mentiu, mas você sabe que você mentiu, sabe?
-      
-      <span class="b">Claudia:</span> Aí… esse caso aí já é… já é errado. Por isso que é melhor falar "já tô chegando" do que "já estou indo". Porque indo você não tá indo, mas chegando você tá. Em algum momento você vai chegar.
-      
-      <span class="b">Raafa:</span> O "já" imputa que falta muito pouco tempo para você chegar.
-      
-      <span class="b">Claudia:</span> Mas aí, dependendo da distância é pouca, ué.
-      
-      <span class="b">Raafa:</span> É… Tudo bem, tudo bem. É que foi muito vago o exemplo [Risada da Claudia] É que a mentira, ela tá mais dentro do coração do que dentro da sua vontade de sobressair. Porque a mentira, essas mentiras sociais, ela nada mais é do que uma maneira de você tirar uma vantagem para você. De você sobressair de uma situação às vezes que possa complicar né? [<span class="b">Claudia:</span> Hum…] Então você, sei lá… Sei lá, tem, tem… Pode, pode dar outros vários outros exemplos. Você faltou do serviço porque você não acordou, você tipo, sei lá, você não acordou e aí você bota a culpa em qualquer outra coisa: "Ah, o tran- peguei muito trânsito, aí vou chegar atrasadão hoje". Ou, sei lá, "não despertou". Mas despertou, você que não acordou mesmo, entendeu?
-      
-      <span class="b">Claudia:</span> Ó, o "despertadou". Uma coisa é o celular despertar, outra coisa eu despertar! [Riso do Raafa] Não despertou, mas eu não falei quem não despertou. 
-      
-      <span class="b">Raafa:</span> Não desper… Então mas aí é que tá! A mentira tá dentro de você! [<span class="b">Claudia:</span> Então] você… [rRsos só Raafa] 
-      
-      <span class="b">Claudia:</span> Então, tu tocou num ponto muito bom: a intenção do coração. Porque Deus conhece a intenção do coração! E se eu falei uma inverdade mas sem a intenção de mentir e causar um mal?
-      
-      <span class="b">Raafa:</span> É mentira! [Risos da Claudia] É mentira, é mentira! Já f- eu sou cristão cara. Eu tô lutan- é uma luta diária <span class="i">vey</span>. A gente tem vários pecados, mas a mentira é uma que bate na nossa porta todo dia, e são sempre essas mentirinhas bobas! São sempre essas mentirinhas bobas. Então você tá o tempo todo manipulando o seu próprio português pra quando alguém tentar te questionar, você usa o português contrário pra falar "não mas eu disse isso aqui…" Poderia ser sei lá, eu poderia tá falando sobre o exemplo do "já tô chegando". Se você… ó "já tô chegando" a pessoa falou: "pô, você demorou um tempão". Ah, mas eu não disse quando, entendeu? [Riso da Claudia] Eu disse que já tô chegando, mas eu não disse quando. Então você usa a sua própria… o seu próprio português, a sua própria sentença que você formou, para manipular uma mentira e não parecer que você mentiu. 
-      
-      <span class="b">Claudia:</span> É igual tipo, tu falar… eh… sei lá, "vai para casa do chapéu" quando tu tá querendo mandar [<span class="b">Raafa:</span> Ã-hã.] aquele palavrão do seu… [<span class="b">Raafa:</span> Palavrão] do seu âmago. Continua sendo um palavrão. <span class="b">Raafa:</span> [incompreensível] no seu coração você foi bem ofensivo com a pessoa, sabe?
-      
-      <span class="b">Claudia:</span> Uhum. Só fala "vai pastar!", mas aí dentro de você, você xingou até a terceira geração do cara.
-      
-      <span class="b">Raafa:</span> É, com certeza. E a mentira é a mesma coisa. Você manipula a mentira para não parecer que foi mentira, mas no seu coração você sabe que você mentiu.
-      
-      <span class="b">Claudia:</span> E se… vamos supor: você tá numa situação desconfortabilíssima Você… não mentir, porque no caso seria mentir assim, <em>MENTIR</em>, é uma palavra muito forte. Mas assim, você dá uma omitida tipo--
-      
-      <span class="b">Raafa:</span> É mentira.
-      
-      <span class="b">Claudia:</span> Não, calma. Deixa eu terminar de formular. Você dá uma omitida porque se você falar a verdade você pode causar um prejuízo enorme. Tipo, não é algo que… que vai… que vai tá valendo, sei lá, o emprego de ninguém. Não é algo que vai tá valendo nada. Mas é assim… é um negócio que se você falar vai causar… assim… não um mal gigante, mas vai trazer coisas ruins.
-      
-      <span class="b">Raafa:</span> Pra mim a omissão é uma mentira velada, sabe?
-      
-      <span class="b">Claudia:</span> Dependendo da situação a omissão é até pior do que a mentira.
-      
-      <span class="b">Raafa:</span> Na real, eu… eu… [<span class="b">Claudia:</span> Eu acho.] sempre achei isso. Eu sempre achei a omissão bem pior do que a mentira. A mentira é algo que, tipo, eu abomino em qualquer situação (desde que não seja no Among Us, porque é muito bom mentir no Among Us). 
-      
-      <span class="b">Claudia:</span> Olha só! Mas no Among Us que começa tudo. Daqui a pouco tu tá virando um mentiroso compulsivo.
-      
-      [Risos]
-      
-      <span class="b">Claudia:</span> E o "tudo bem"? 
-      <span class="b">Raafa:</span> Então. "Tudo bem", se não tá tudo bem é mentira.
-      
-      <span class="b">Claudia:</span> Mas e aquela mulher que ficava falando “tudo bem, tudo bem, tudo bem” com filho morto em casa?
-      
-      <span class="b">Raafa:</span> Ela tá evitando curiosidade. Porque assim, eu não... eu não vou entrar na questão se é certo ou errado; mas imagino que seja errado. Mas o que essa pessoa tá fazendo é evitar curioso que não vai poder fazer nada, sabe? Porque, tipo, eu vou falar por mim porque eu já fiz muito isso. Às vezes estava destruído e ninguém pode resolver nada por mim, então a pessoa pergunta: “você tá bem?”, “ah, eu tô”, mas é só para evitar ter que ficar explicando, sabe? Só para fugir de ter que explicar. “Ah, eu tô bem” e a pessoa: “Que bom.” e ela vai embora. Porque se você fala “não tô legal”,  ela vai falar: "pô, o quê que aconteceu? Como é que… Desabafa.” Não, eu não quero. Eu não tô muito legal. O dia que quiser desabafar eu te chamo e eu mesmo desabafo.
-      
-      <span class="b">Claudia:</span> Ela tava lá falando pra todo mundo que tava tudo mui– tava tudo bem e ganhou um milagre! O tudo bem de “não quero ninguém se metendo na minha vida” se formou... se jun–  se uniu com uma fé, e não... e não se anularam!
-      
-      <span class="b">Raafa:</span> Eu acho que foi meio que profético ela “tá tudo bem”? Tentando aceitar que tá tudo bem e aí ficou tudo bem?
-      
-      <span class="b">Claudia:</span> Foi, né? Ela tava indo atrás do profeta, né? 
-      
-      <span class="b">Raafa:</span> Ahn… Aí no caso não é mentira? Ela tá dizendo que tá tudo bem, mas ela no caso só está projetando o futuro dela? 
-      
-      <span class="b">Claudia:</span> Mas é o ponto! Foi isso que eu te perguntei. Perguntei primeiro tu responde.
-      
-      <span class="b">Raafa:</span> Então... eu não sei… [Risos da Claudia] Nesse caso aí é complicado, porque aí vai de novo na intenção do coração. Será que ela “tá tudo bem”... como tá o coração dela? Se ela realmente acredita nesse “tudo bem profético'', aí tudo bem. Aí realmente tudo bem! Agora, se esse “tudo bem” é aquela questão que eu falei: é simplesmente para evitar curiosos querendo saber o quê que tá pegando, aí talvez seja errado.
-      
-      <span class="b">Claudia:</span> E eu já ouvi de púlpito nego falando... pregando essa palavra aí. E daí, falando que quando tiver tudo ruim na sua casa diga que tá tudo bem, porque Deus vai fazer um milagre. Mas como assim, mano?
-      
-      <span class="b">Raafa:</span> Não… Eu tenho uma resistência contra esse tipo de pregação.
-      
-      <span class="b">Claudia:</span> Não é assim que funciona! “Simplesmente vai dar tudo bem”... e se Deus não quiser que esteja tudo bem? Como é que fica?
-      
-      <span class="b">Raafa:</span> Pois é. Existe esse grande quesito aí que a gente muitas vezes não quer aceitar: que tem que ficar tudo bem. Nem sempre tem que ficar tudo bem. E a gente não pode viver em “denial”, né; em negação. Nós não podemos negar... Assim, a gente é crente; a gente é cristão; nós somos diferentes do mundo, mas a gente não pode viver num conto da Carochinha achan... fazendo os outros acreditarem que tá tudo bem sempre porque a gente é cristão. Não, a gente vive... talvez a gente viva mais lutas do que eles, só que a gente tem aonde se apoiar, a gente tem o que buscar para lidar com certos problemas.
-      
-      <span class="b">Claudia:</span> Às vezes é aquele negócio lá da... da vitória com sabor de mel. Às vezes não vai ter vitória.
-      
-      <span class="b">Raafa:</span> É. E nem vai vir com sabor de mel…
-      
-      <span class="b">Claudia:</span> E aí tu vai... tu vai fechar a cara e vai... vai largar tudo porque não teve vitória? 
-      
-      <span class="b">Raafa:</span> Isso aí... esse assunto acaba saindo um pouco da pauta, né, sobre a mentira. Mas acontece que muita gente afasta e desvia da igreja por entrar, vir pra Cristo, acreditando no cristianismo totalmente triunfalista, onde você vai vir pro mundo de Jesus, né, vai vir pro cristianismo e tudo vai dar certo, tudo vai ser sempre muito bom para você. E aí a primeira luta pessoa fala: “Pô, eu achei que ser cristão era ter uma vida melhor e não é. Eu tô tendo luta do mesmo jeito.” E aí, é pela porta que a pessoa entrou ela sai, porque se decepcionou o cristianismo triunfalista que ela escutou sendo pregado em diversos lugares.
-      
-      <span class="b">Claudia:</span> Mas isso faz total parte da pauta! Não, a gente não saiu da pauta. Porque realmente esse negócio de ficar pregando... pega mais sobre... sobre vitória do que sobre processo. Aí o cara só vai ficar ouvindo que vai ter vitória, vitória, vitória, vitória, aí ele vai achar que é aquilo. E ele vai começar a mentir para si mesmo! [<span class="b">Raafa:</span> Boa! Isso aí!] E aí o cara que só ouve direto que vai ter vitória, vitória, vitória; a chave de carro, chave de casa, ele vai achar: “Não, realmente na igreja é lugar disso mesmo. Vou pra lá, porque eu estou precisando de um carro novo!” Mas assim, não sabe que vida com Deus é processos e, tipo assim, cada um tem a sua experiência particular. A vida com Deus ela é individual, que gera um todo… um… um grande coletivo. Tipo, no caso, ele mentiu para si próprio e vai acabar se frustrando com a sua própria mentira que ele criou para si mesmo! 
-      
-      <span class="b">Raafa:</span> Mas essa mentira... ela acaba sendo mais de quem pregou do que da pessoa que escutou e aceitou pelo com verdade. Porque é isso: ela simplesmente aceitou aquilo ali como verdade. Ela precisa se desvincular desse falso cristianismo onde tudo é benção, e ler a Bíblia, e entender que aquilo ali não é uma verdade, entendeu? Só que fica outro ponto: quando você acredita numa mentira, mas você não tem a real verdade, aquilo ali é sua verdade. Você... Você tá no... você tá debaixo do jugo da ignorância ainda. Então, o cara que converte dentro de uma igreja triunfalista, não é que ele tá mentindo, é o que ele o que ele recebeu e é o que ele acredita. O que ele precisa é realmente receber uma palavra que mostre para ele o Verdadeiro Evangelho.
-       
-      [sobe trilha]
-      [desce trilha]
-      
-      <span class="b">Claudia:</span> E assim, só para a gente encerrar; eu não podia tá num podcast de mentira sem falar de Davi. Porque ele cobiçou a mulher do coleguinha [<span class="b">Raafa:</span> Isso!] e mentiu para colocar o coleguinha [ <span class="b">Raafa:</span> Na linha de frente] na linha de frente na hora da morte! O cara foi O Cara Segundo o Coração de Deus!
-      
-      <span class="b">Raafa:</span> Mesmo mentindo, né? 
-      
-      <span class="b">Claudia:</span> Como ele pode ser o Cara Segundo o Coração de Deus e eu não posso mentir jogando o meu Among Us?
-      
-      <span class="b">Raafa:</span> Davi… Davi foi um cara muito louco aí que tem seus motivos, né, pra ser o homem segundo o coração de Deus. Ele sofreu as consequências da mentira dele; ele não passou impune. 
-      
-      <span class="b">Claudia:</span> Exatamente. Ele viu aquilo ali, ele sofreu até o último ponto, e daí a vida dele virou. Mas ele mesmo assim, mesmo sendo homem segundo o coração de Deus ele, não pode construir o templo. Como assim?
-      
-      <span class="b">Raafa:</span> Era o propósito de Deus, né? Que fosse para o filho dele. Que aquilo ali fosse para o filho dele.
-      
-      <span class="b">Claudia:</span> Qual é a tua interpretação desse texto do Davi sofrendo pela criança que tava morrendo e só saiu do quarto quando a criança morreu?
-      
-      <span class="b">Raafa:</span> Noss… caramba, nunca parei para pensar nesse que... porque a gente tá falando sobre mentira. Eu nunca tinha pensado no contexto geral dessa situação. Mas eu não sei se existia uma esperança em Davi. Uma esperança de que Deus poderia gerar aquela criança mesmo sendo fruto de uma mentira e fruto de um adultério, de um pecado. Mas eu não sei. Na minha cabeça vem que Davi só saiu dali porque ainda tinha esperança de que Deus poderia reverter a situação e transformar aquela... aquela criança em alguém usada por Ele.
-      
-      <span class="b">Claudia:</span> Porque tem um hino, um louvor, uma música gospel —  eu não sei como é que é o pessoal tá chamando agora as paradas.  E eu não eu não vou dizer que é um louvor, porque não... não adora... tipo, não é uma canção direcionada a Deus, né? [<span class="b">Raafa:</span> Ã-hã.] Mas ela fala assim: que Davi tava adorando naquele processo de morte, e exalta Davi como um adorador. Só que assim, sempre quando eu li esse texto a minha interpretação era: ele tava naquele momento ali, porque ele tava sofrendo e ele tava vendo que o que ele fez gerou uma vida errada e uma vida morta. E tipo assim, ele não tava lá adorando porque ele queria se livrar daquela situação assim… com vitória; ele só queria sair daquela situação. Tanto que ele só saiu do quarto real depois que a criança morreu! [<span class="b">Raafa:</span> Exato.] Ele tava lá escondido com vergonha do que ele fez, porque, tipo assim, ele não só pegou a mulher do outro cara, ele ainda levou aquele cara para morrer. Certo? Então assim, ele tava ali com vergonha do que ele fez, processando o que ele fez, entendendo o que ele fez. Não como se ele gerasse uma esperança, mas assim, se ligando que o que ele fez — além de ser feio, de ser errado —  ainda causou uma bola de neve de situações que ele teve que fazer muita coisa errada. Aquela criança foi, tipo assim, o ponto alto da mentira dele; de toda essa situação que ele trouxe pra si! Ele não tava ali como um adorador, ele estava ali como um pecador.
-      
-      <span class="b">Raafa:</span> Arrependido. Você acha que ali naquele momento houve uma mudança no coração de Davi? Naquele momento ali se divide o Davi em dois? 
-      
-      <span class="b">Claudia:</span> Eu acho que sim. Me apaga da cabeça qualquer coisa que Davi possa ter feito depois disso. Tipo, eu não... eu não consigo recordar. Tem um vão na minha cabeça que eu não lembro! Talvez eu possa tá querendo inventar demais! Quando ele faz tudo isso, todas essas mentiras, essas mortes, esses pecados, ele vê “eu não sou tão grande assim”, sabe? E aí, o que eu acho, assim, que ele começa a se repensar, e aí a verdadeira transformação começa aí: ele foi criando um hábito de se tornar cada dia mais Segundo o Coração de Deus. Então assim, a mentira ela é horrível, ela vai gerar consequências horríveis. Mas assim, como tudo na vida que a gente faz que é errado, que gera coisa ruim não só para gente mas para os outros também, quando a gente começa a aprender com tudo que a gente faz —  seja bom, seja ruim —  a gente cresce como pessoa. E quando a gente começa a se conhecer melhor a se perceber melhor, tudo se... vai se... começando a se encaixar e vai dando certo, entrando no seu devido lugar. É essa a interpretação que eu tiro, e eu posso estar falando muita besteira! Se eu estou falando besteira me perdoe, mas…
-      
-      <span class="b">Raafa:</span> Bela reflexão. Curti a reflexão de verdade mesmo.
-      
-      <span class="b">Claudia:</span> Mais um personagem bíblico (isso aqui é um podcast cristão então vamo tacar Bíblia dentro desse podcast!)  Abraão: [<span class="b">Raafa:</span> Ãhn…]  "Ah não,  essa… essa mulher aqui que é a minha mulher na verdade ela é minha irmã." [<span class="b">Raafa:</span> Hã.] Abraão recebeu promessa – de ti farei uma grande nação – Mentiu acho que umas duas, três vezes com aquela desculpinha: "se eu falar que Sara é minha mulher os caras vão estuprar ela. Mas se eu falar que ela é minha irmã nada vai acontecer." Por quê que isso brotou na  cabeça dele? Por que eles vão respeitar mais a mulher dele por ser irmã dele, do que por ser a mulher dele?
-      
-      <span class="b">Raafa:</span> Mas isso tor… isso torna a mentira aceitável? Eu acho que de forma alguma.
-      
-      <span class="b">Claudia:</span> Se eu não me engano teve um cara que pegou ele. Que era… ele só mentia nesses… nesses momentos assim, que ele tinha que passar por algum lugar. Aí teve um rei que pegou ele, falou: "Olha cara, essa mulher aí não é sua irmã. Por quê que você meteu um caô na minha cara? Na minha frente? Você pode passar." Se eu não me engano foi mais ou menos isso…" você pode passar mas, oh, você não vai levar nada!" Foi mais… eu acho que se eu não me engano foi isso. 
-      
-      <span class="b">Raafa:</span> Então, eu realmente não tô lembrado agora. 
-      
-      <span class="b">Claudia:</span> O quê que Sara tinha, sendo uma senhora idosa, que se fosse vista como mulher de outro cara ia dar ruim, mas sendo irmã do cara não ia? Não seri- não deveria ser o contrário? [<span class="b">Raafa:</span> É.] Abraão, pelo que parecia, ele tinha.. ele tinha nome, ele era, tipo, ele era um cara respeitável. Eu não vou pegar a tua irmã, mas eu se tu tiver mulher vou pegar? Isso não entra na minha cabeça. 
-      
-      <span class="b">Raafa:</span> Não faz sentido.
-      
-      <span class="b">Claudia:</span> Não faz sentido nenhum! E de novo, outro cara que conseguiu o propósito de Deus na vida dele. E por quê que eu não posso mentir no meu Among Us? 
-      
-      <span class="b">Raafa:</span> Isso… isso acaba fazendo é… parecer que tornar mentira aceitável, mas não, a mentira não é aceitável. É porque falando assim dá impressão de que: ah, Abraão mentiu, Davi mentiu e todos eles receberam as suas promessas, entre aspas né. Receberam entre aspas as promessas de Deus pra sua vida. Então eu, mero pecador aqui, que tô bem abaixo desses caras, eu vou… vou mentir ali porque eu sei que vai dar tudo certo. Cara, eu acho que em Abraão o que a gente pode ver é a graça de Deus, né? Porque não foi implantada consequências sobre ele pelo… pela mentira. 
-      
-      <span class="b">Claudia:</span> Gênesis 20. Quem pegou Abraão foi Abimeleque. Ele foi passar por um lugar e daí ele meteu o <span class="i">caôzinho</span> que era mulher dele. Aí ele falou lá que era irmã… [<span class="b">Raafa:</span> Isso…] CITAÇÃO Deus revelou pra Abimeleque que Sara era irmã de Abraão. [<span class="b">Raafa:</span> Ã-han] O Abimeleque quis pegar a Sara, aí Deus revelou para Abimeleque nos sonhos e disse: <blockquote cite="Gênesis capítulo 20 versículo 3 versão Ameida Revisada e Aualizada">
-        <p>"vais ser punido morte por causa da mulher que tomastes, porque ela tem marido."</p>
-      </blockquote> Aí Abimeleque ficou pistola, né. Lógico que ficou pistola. Abimeleque questionou ele, né? Questionou Abraão porquê que ele meteu o <span class="i">caôzão</span> na cara dura. Aí Abraão falou:
-      <blockquote cite="Gênesis 20:11 versão Ameida Revisada e Aualizada"><p>"eu dizia comigo mesmo certamente não há temor de Deus nesse lugar e eles me matarão por causa da minha mulher."</p></blockquote> 
-      Mano, Sara devia ser a mulher mais incrível do mundo! 
-      
-      <span class="b">Raafa:</span> Né!
-      
-      <span class="b">Claudia:</span> Aí que vem o <span class="i">plot twist</span> Raafa! Que a gente não tava esperando! O balde de água fria agora para fechar o podcast. CITAÇÃO <blockquote cite="Gênesis capítulo 20 versículo 12 versão Ameida Revisada e Aualizada">
-        <p>"Por outro lado ela de fato é também minha irmã filha de meu pai e não de minha mãe e veio a ser a minha mulher."</p>
-      </blockquote>
-      
-      [Trilha do meme do esquilo dramático]
-      
-      <span class="b">Raafa:</span> <span class="i">Plot twist</span>! [Claudia ri] Caraca eu juro que eu não sabia disso. Eu não sabia disso.
-      
-      <span class="b">Claudia:</span> Nossa Abraão mereceu viver a promessa porque ele não mentiu!
-      
-      <span class="b">Raafa:</span> Ele não mentiu, cara. Eu tava pesquisando aqui mano as consequências do pe– da mentira de Abraão e não tem. [Claudia ri] Não tem consequência porque não tem mentira!
-      
-      <span class="b">Claudia:</span> E tipo, a consequência que aconteceu com ele foi que ele conseguiu mais terra irmão.
-      
-      <span class="b">Raafa:</span> Exato!
-      
-      <span class="b">Claudia:</span> Viu pessoas não mintam, fala a verdade! [Raafa ri] Oh, mas tem um porém: ele omitiu! 
-      
-      <span class="b">Raafa:</span> Ele omitiu! 
-      
-      <span class="b">Claudia:</span> "Ela é minha mulher, mas ela também é minha irmã, mas eu só vou falar que ela é minha mulher.”
-      
-      <span class="b">Raafa:</span> "Depois eu revelo que ela é minha irmã…" 
-      
-      <span class="b">Claudia:</span> Noooooossaaa!
-      
-      [Os dois riem]
-      
-      <span class="b">Claudia:</span> E é assim, com esse balde de água fria, que a gente encerra esse programa! 
-      
-      <span class="b">Raafa:</span> Balde gelado!
-      
-      <span class="b">Claudia:</span> Nossa, aquele… aquele <span class="i">challenge</span> lá do balde de gelo. [<span class="b">Raafa:</span> É, eu lembro. Eu lembro.] Foi isso nesse momento.
-      
-      [Claudia ri]
-      
-      <span class="b">Claudia:</span> Raafa, faça o seu jabá, dê suas considerações finais e sinta-se à vontade para você fazer o que você quiser. Esse momento é seu.
-      
-      <span class="b">Raafa:</span> Muito obrigado, eu tô muito feliz tá participando desse podcast e eu não tenho muito o que fazer não. Rede social é tudo Raafa com dois "A" Beringui. Todas elas; todas as redes sociais é isso. E eu também estou começando um podcast, tem um podcast gravado sobre The Last of Us parte 2. Tá cheio de <span class="i">spoiler</span> lá. Se você não jogou, não sabe o quê que é, não vai lá escutar. Mas se chama Conversa na Calçada. E é isso. 
-      Tô muito feliz. Lu, muito obrigado por me convidar para participar desse momento incrível que é o primeiro podcast.
-      
-      <span class="b">Claudia:</span> E é isso aí. Você tá feliz, mas eu não sei, eu acho que eu tô mais feliz, porque além de tá enfim tirando esse projeto do papel, esse programa foi uma delícia de gravar apesar do balde de água fria no final, foi, oh, muito bom conversar contigo aqui. E é muito bom, cara, além disso, é saber que desde os primórdios da ideia inicial você esteve lá e eu quero muito te agradecer, porque você que deu o empurrão, o apoio. Então assim, se… se esse trem existe, é, você tem tem parcela de culpa. Se for ruim esse podcast, parcela de culpa é do Rafael, vão lá nas redes dele e falem com ele!
-      
-      <span class="b">Raafa:</span> É, eu sempre acreditei porque sempre foi um plano, um projeto meu também. Sempre quis ter um podcast e quando você falou que… que escutava e que curtia esse tipo de mídia, eu falei: "pronto, achei uma pessoa que a gente pode ter um projeto muito bacana." É isso.
-      
-      <span class="b">Claudia:</span> Bem, claramente você tá dentro desse projeto. O Admirável Cristão Novo surgiu na minha cabeça, mas ele… as portas estão escancaradas para você, entendeu?
-      
-      <span class="b">Raafa:</span> Sempre que chamar–
-      
-      <span class="b">Claudia:</span> Não é sempre que chamar não! Sempre que tu vê um assunto que pode entrar aqui, e talvez não caiba lá no Conversa na Calçada, se tu quiser trazer para cá cê traz. Ele é teu também mano!
-      As redes do Raafa e as minhas estarão <span class="i">linkadas</span> nesse post. O podcast do Raafa também vai tá <span class="i">linkado</span> aqui. E tipo assim, deu vontade de jogar The Last of Us cara, quando eu terminei de ouvir. Mas aí eu fiquei triste, porque para eu poder jogar eu tenho que comprar um play 4.
-      
-      <span class="b">Raafa:</span> Você não tem o Play 4?
-      
-      <span class="b">Claudia:</span> Puts, não.
-      
-      <span class="b">Raafa:</span> Oh, se você arrumar um play 4, cê não precisa comprar o jogo; eu te empresto a minha conta e você joga nela. 
-      
-      <span class="b">Claudia:</span> Nossa, tá vendo? É isto! Isso se chama o quê? Amigo. Amizade. Valorizem os seus que eles vão valorizar você! [Claudia ri]
-      Mais alguma coisa Raafa? 
-      
-      <span class="b">Raafa:</span> Não, por hoje é só. Muito–  só reiterar o meu agradecimento de fazer parte disso aqui. Realmente é um projeto que acreditei durante muito tempo, ficou na gaveta durante muito tempo, mas tô feliz de ele realmente tá acontecendo.
-      
-      <span class="b">Claudia:</span> Paz pessoas! Porque a gente tá precisado.
-      
-      <span class="b">Raafa:</span> Finish? 
-      
-      [sobe a trilha]
-      <span class="i">
-        Se fez, então, diz que sim
-        Se não fez, então, diz que não
-        Que seja o seu falar sim, sim, não, não
-        
-        É gente, falar a verdade é muito melhor!
-        Jesus fica muito feliz quando falamos a verdade!
-        É muito bom!
-        Se fez, então, diz que sim
-        Se não fez, então, diz que não
-        Que seja o seu falar sim, sim, não, não
-        Que seja o seu falar sim, sim, não, não
-        Que seja o seu falar sim, sim, não, não
-        Yeah, yeah, yeah, yeah, yeah
-        Oh, oh, oh, oh, ooooooooooh
-        Nada de mentira, hein!?
-      </span>
-      [a música acaba]
+    [Risos]
+    
+    <span class="b">Raafa:</span> Ah! Deixa eu me recompor.
+    
+    -//-
+    
+    <span class="b">Raafa:</span> Mas aí, a questão que fica é a seguinte: tem como confiar em alguém dentro desse joguinho? 
+    
+    <span class="b">Claudia:</span> Literalmente não. Eu acho…  não sei... 
+    
+    <span class="b">Raafa:</span> O jogo... eu... o… o Among Us é um jogo que foi feito para você mentir. Ó, eu vou contar… eu quero contar uma história que aconteceu no Among Us. Não foi comigo, mas é uma história que eu acho que vale muito a pena ser contada, se você permitir eu contar essa história.
+    
+    <span class="b">Claudia:</span> Certo,  pode contar.
+    
+    <span class="b">Raafa:</span> Um amigo meu. Aliás, uma amiga minha — e ela já é mãe — e ela não... não entende desse mundo dos games. Mas o Among Us, como é um jogo muito interativo, ela decidiu entrar nesse mundo dos games, e foi jogar Among Us com filho dela de 5 anos de idade. E o menino foi ensinar a mãe dele a jogar e falou assim, ó: “Mãe anda só comigo. Anda só comigo, porque eu vou te ensinar como é que joga.” E os dois andam juntos até o final do jogo. Chegou no final do jogo, ele matou ela e ganhou de impostor. 
+    
+    [Risos da Claudia]
+    
+    <span class="b">Claudia:</span> Meu Deus… [Risos do Raafa] Aí agora ela descobriu que o filho dela não é esse santinho não! 
+    
+    <span class="b">Raafa:</span> Não dá! Não dá pra confiar nem no seu filho de 5 anos! É a geração que vai aprender a mentir muito cedo.
+    
+    <span class="b">Claudia:</span> Os partidos políticos no futuro tá… tá tudo garantido já.
+    
+    <span class="b">Raafa:</span> É! Com certeza.
+    
+    [sobe trilha]
+    <span class="i">
+      Beijos
+      Beijos
+      Beijos
+      Beijos nem sempre são
+      O que parecem
+      
+      Beijando-lhe o rosto
+      Fingindo-se amigo
+      Judas a Cristo traiu
+      
+      Beijando-lhe o rosto
+      Fingindo-se amigo
+      Judas a Cristo traiu
+    </span>
+    [desce trilha]
+    
+    [Trilha]
+    
+    <span class="b">Claudia:</span> Passado o <span class="i">hype</span> do Among Us — porque eu acho que o <span class="i">hype</span> do Among Us já acabou. Ou não?
+    
+    <span class="b">Raafa:</span> Ou não? Será? Te… Tem alguns que estão só começando ainda.
+    
+    <span class="b">Claudia:</span> Mas antes de, tipo, há umas três semanas atrás, estava mais, né?
+    
+    <span class="b">Raafa:</span> Eh. Não. Com certe… com certeza o <span class="i">hype</span> do jogo [<span class="b">Claudia:</span> O <span class="i">hype</span> já foi.] ele… ele passa muito rápido, né? Então acho que, tipo, o pico, o pico de acesso do Among Us com certeza já terminou, mas tem uma galera ainda que tá fazendo os números do Among Us, na Twitch pelo menos, subir bastante. 
+    
+    <span class="b">Claudia:</span> Até porque o Among Us, ele não é... um jogo também que tem muita coisa também para tu fazer. Tipo, [<span class="b">Raafa:</span>  Ã-hã!] é só aquele jogo de você juntar os amigos — quando você tem amigos — [Risos do Raafa] pra vocês ficarem se matando, mentindo uns pros outros, e é isso. Tem até gente que inventa os modos aí, mas eles são meio sem graça, né. Mas aí, o <span class="i">hype</span> já foi.
+    
+    <span class="b">Raafa:</span>  Eu acho legal do Among Us é essa interação: o jogo de forçar a… a ter que conversar, a ter que debater. A...  a mexer com seu cérebro, a cri… a  treinar uma parte do seu cérebro, sabe?
+    
+    <span class="b">Claudia:</span> Diga mais sobre isso.
+    
+    <span class="b">Raafa:</span> Tipo assim, eh… Assim, eu vou falar por mim, né, mas eu não sou a pessoa que tô acostumada a sair mentindo o tempo inteiro. Então a primeira vez que eu joguei de impostor foi um terror para mim, porque eu não sabia... eu não sabia mentir no jogo. Eu passava perto de alguém eu falava assim, olha: “Eu tenho que decorar o meu percurso todinho e marcar tudo que eu fiz, todo mundo que eu vi, pra chegar na hora e talvez nem seja isso que eu tenha que falar, porque se eu falar a verdade talvez eu me entregue”. Entendeu? Então a primeira vez que eu fui impostor, mano, eu fiquei numa sinuca de bico, porque eu vi que eu não sei mentir. Que a mentira, apesar de ser algo que tá aí na... presente na vida de todo mundo; todo mundo mente. Mas não é fácil mentir não, viu? Não é muito fácil mentir não.
+    
+    <span class="b">Claudia:</span> Não é muito fácil? Depende da pessoa, né?
+    
+    -//-
+    
+    <span class="b">Claudia:</span> Na primeira vez que eu fui impostora, lá naquele cantinho mágico da Elétrica, [Risos do Raafa] eu ventei na frente do cara.
+    
+    <span class="b">Raafa:</span> Ahn.
+    
+    <span class="b">Claudia:</span> Eu fui apertar o botão de <span class="i">kill</span> e apertei o botão de <span class="i">vent</span>. [<span class="b">Raafa:</span> Boa!] Aí me deu uma crise de riso que eu não consegui sair. Aí [Risos do Raafa] reportaram um corpo lá longe e eu fiquei dentro do... da <span class="i">vent</span>. Aí eu saí me entregando, sabe? “Putz, o cara me viu aqui na <span class="i">vent</span> e não sei o quê”. Mas aí, quando eu olhei para a tela do meu computador, o cara tinha morrido! 
+    
+    <span class="b">Raafa:</span> Nossa! 
+    
+    <span class="b">Claudia:</span> Cara, eu podia só ficar de boa! E eu acho que ele nem me viu! Que ele devia tá fazen… lá... na... era <span class="i">download</span>. Eu acho que ele nem me viu ventando!
+    
+    <span class="b">Raafa:</span> Com certeza ele não te viu ventando, porque a tela de <span class="i">download</span> [<span class="b">Claudia:</span> Ã-hã!] é bem grande…
+    
+    <span class="b">Claudia:</span> Não tem como! Mas aí tu vai jogando, você vai se liberando, vai se soltando. Aí desperta o carioca de dentro de você.
+    
+    <span class="b">Raafa:</span> Vai criando o hábito de mentir. É isso que você tá querendo dizer? Você… você aprende a mentir jogando Among Us?
+    
+    <span class="b">Claudia:</span> Eu não acho que você aprende a mentir. Tipo, se você tiver uma predistida… opa!
+    
+    [Corte abrupto no áudio]
+    
+    <span class="b">Claudia:</span> Uma… Como é que é a palavra? É…
+    
+    <span class="b">Raafa:</span> Predestinado...
+    
+    <span class="b">Claudia:</span> Se você tiver uma... inclinação... [<span class="b">Raafa:</span> Predisposição] Isso! 
+    
+    [Corte abrupto do áudio]
+    
+    <span class="b">Claudia:</span> Predisposição. Uma inclinação à mentira, você vai virar um mentiroso nato. Porque tu vai começar a aprender que, pra tu mentir, tem que observar a tua volta pra você poder montar a melhor história na tua cabeça pra você poder contar. Mas, se você for um péssimo mentiroso, ainda dá pra você pegar essa manha de, tipo, tu já sair metendo o louco. Tipo, você aprende a ser convincente. Não é nem ser mentiroso, porque se você passa confiança, as pessoas vão acreditar que o outro cara que matou reportou. 
+    
+    <span class="b">Raafa:</span> Faz toda diferença você ter uma imposição, né [<span class="b">Claudia:</span> Exatamente.] uma postura vocal boa, porque você compra! Você às vezes não precisa nem ser mentiroso mesmo. Se você tiver uma postura legal, você compra as pessoas com... com a sua ideia, com a sua falácia, né? Vamos supor: o cara reportou o corpo na frente do outro e ele viu ele matando. O cara que... que falar primeiro ali ele já ganha uma frente ou não? 
+    
+    <span class="b">Claudia:</span> Vai depender de como ele tava no jogo antes eu acho. Para mim depende. Se ele é um cara que o pessoal já tava desconfiando, sem dúvida ele é um assassino. [<span class="b">Raafa:</span> Ã-hã.] A não ser que, tipo, se são duas pessoas: eu você que... que a gente já tá tretando antes, mas eu sou impostora, eu matei na sua frente e você reportou. Mas como a gente já tava se acusando antes, aí complica um pouco pro pessoal poder decidir quem vai tirar. 
+    
+    <span class="b">Raafa:</span> Nesse caso tira os dois. Eu acho que tira os dois.
+    
+    <span class="b">Claudia:</span> Mas eu acho mui- é muito... é muito anticlimático. Tipo: “Ah! Vamos tirar primeiro o Rafa; depois a gente tira Claudia. A gente bate lá o botão tira Claudia!” [<span class="b">Raafa:</span> É, com certeza.] Isso é tão broxante!
+    
+    -//-
+    
+    <span class="b">Claudia:</span> O Among Us, ele a… ele…  ele ensina a gente várias coisas na real.
+    
+    <span class="b">Raafa:</span> Não, é… era o que eu ia complementar isso. Ele realmente ensina a gente várias coisas. A gente... a gente aponta, né, a mentira; que ensina a gente mentir ou que obriga a gente a mentir. Mas o… é aquilo que eu falei no início: o Among Us, ele é um jogo interativo, então ele meio que gera até amizades, cara. Eu tô num servidor aleatório do Among Us, tem 20 mil pessoas e eu já jogue... eu já fiz algumas amizades que eu adicionei no discord, sabe? De uma galera aqui. Então eu acho… eu acho que o Among Us, apesar de o jogo simples 2D, que seria facilmente jogado no Super Nintendo, veio para revolucionar aí, mano, os games.
+    
+    [Risos da Claudia]
+    
+    <span class="b">Claudia:</span> Revolucionar já é meio forte, não é não? 
+    
+    <span class="b">Raafa:</span> Foi forte! Foi forte, mas tipo, [<span class="b">Claudia:</span> Foi um pouco forte…] ele forçou… ele forçou um outro tipo de <span class="i">gameplay</span> que a galera não tava acostumada a jogar. Quem já jogou o famoso Cidade Dorme sabe do que eu tô falando.
+    
+    <span class="b">Claudia:</span> E eu claramente não sei do que você tá falando!
+    
+    <span class="b">Raafa:</span> Nunca jogou Cidade Dorme? [<span class="b">Claudia:</span> Nã…] É o Among Us eh… tipo, pessoalmente. Você joga com seus amigos. Lembra do “Detetive”?[<span class="b">Claudia:</span> Eu nunca nem ouvi falar disso.] Lembra do “Detetive”?
+    
+    <span class="b">Claudia:</span> Ahn? 
+    
+    <span class="b">Raafa:</span> Aquele jogo que você tem que piscar e a pessoa morre?
+    
+    <span class="b">Claudia:</span> Ã-hã!
+    
+    <span class="b">Raafa:</span> É basicamente isso, só que ele [Cidade Dorme] é realmente mais parecido com o Among Us. Por quê? Porque o narrador do jogo escolhe quem vai ser os assassinos, quem vai ser… — só que tem um investigador — quem vai ser o investigador; quem vai ser cada função lá. E aí, durante o jogo, o narrador do jogo diz: “Cidade dorme.” Todo mundo abaixa a cabeça. E aí, vai levantando de acordo com o narrador fala, ó: “Os assassinos acordem.” Aí só os assassinos levanta a cabeça e mata alguém. Aí o advogado, que é o investigador, levanta e investiga alguém. E aí o narrador fala pra ele se quem ele investigou é do bem ou do mal. Depois que ele faz todo esse projeto aí durante a madrugada, em que só quem ele chama levanta a cabeça, ele fala: “Cidade acorda”; e ele fala quem morreu na noite. Ele fala, ó: “Fulano morreu na noite.” E aí começa uma discussão pessoal para tentar descobrir quem que foi o... quem são os dois assassinos ou quem é o único assassino que matou durante a madrugada. E o advogado — é claro — ele bate no peito e fala, ó: “Eu sou o advogado! Eu investiguei Fulano essa noite e o narrador disse que Fulano é do bem.” Agora se, caso ele já investiga de cara; aponta uma pessoa e for do mal, ele fala também. Só que aí, o inves... os... assassinos, eles têm que ter a lábia da mentira também: “Não! Eu…” Ele bate no peito e fala: “Eu sou investigador; eu investiguei Fulano; e Fulano é do mal!” Entendeu? Então, é um Among Us da vida real e é muito bom de jogar!
+    
+    <span class="b">Claudia:</span> Eu Nunca nem ouvi falar nisso…
+    
+    <span class="b">Raafa:</span> Aconselho a [Risos da Claudia] procurar sobre e arrumar amigos para jogar.
+    
+    <span class="b">Claudia:</span> A parte do “arrumar amigos” é mais difícil [Risos do Raafa], mas tudo bem!
+    
+    [Risos da Claudia]
+    
+    [Trilha]
+    
+    [Trilha]
+    
+    <span class="b">Claudia:</span> Então a grande questão desse programa, querido Rafa, é: Among Us é um jogo jogável para cristãos ou é uma armadilha de Satanás para mandar os jovens crentes para o inferno?
+    
+    <span class="b">Raafa:</span> Então, a gente vai entrar numa questão bem religiosa, na minha opinião envolve muita religiosidade. É, dentro de um conjunto de regras eu acho que o Among Us é completamente jogável por qualquer pessoa. Porque você… você só– vamos dar um exemplo, você só comete pecado dentro do Among Us se você fizer alguma coisa que está fora das regras do Among Us. Então quando um jogador, vamos supor, de futebol, é cristão e ele simula uma falta, será que ele tá pecando ali ou ele está apenas seguindo as regras do jogo? Se foi errado simular falta, tudo bem. Agora se ele pode se aproveitar da vantagem do juiz achar que aquilo ali foi falta, ele não tá errado porque faz parte das regras do jogo. Então, a mentira dentro do Among Us faz parte, ela está na regra do jogo. O que seria entre aspas, na minha opinião, "pecado" dentro do Among Us: você baixar uma versão hack do jogo, porque isso vai contra as regras do jogo. Então, na minha opinião, é completamente jogável por qualquer pessoa. Você não tá aplicando aquilo ali na sua vida espiritual, na sua vida real, sabe? Pelo menos eu, o que acontece ali, acaba ali e, tipo, não me induziu a sair mentindo por aí na vida real. Então é uma… é uma mentira que faz parte das regras do jogo. Como todo jogo tem suas regras, as regras do Among Us é essa e eu não me sinto culpa-, eu não termino de jogar e vou pedir perdão a Deus por porque eu menti no Among Us.
+    
+    <span class="b">Claudia:</span> É, até porque, tipo, mentir no Among Us não necessariamente fez um mal a outra pessoa… A não ser que foi um tripulante inocente que foi ejetado da nave porque você mentiu!
+    
+    [Risos do Raafa]
+    
+    <span class="b">Raafa:</span> Parece que foi com o coração. [Risos da Claudia]. Mas a função do impostor é exatamente esta: de expulsar, de fazer todo mundo acreditar que você é que é o impostor.
+    
+    <span class="b">Claudia:</span> Então por um instante no jogo a gente vira o filho do capeta, [Raafa tentando falar], porque ele veio pra matar, roubar e destruir! E é isso que o impostor faz no Among Us: ele mata as pessoas, ele rouba… eu não sei que ele rouba, mas ele rouba! Ele rouba a sanidade das pessoas porque você tem que ficar prestando atenção nas suas tarefas e ainda tem que ficar prestando atenção nos outros cara lá pra tu saber quem é o impostor! E ele destrói, amizades são destruídas naqueles 10 minutos de partida. [Risos da Claudia].
+    
+    <span class="b">Raafa:</span> Essa é a… provavelmente o que um religioso falaria.
+    
+    [Risos da Claudia].
+    
+    <span class="b">Claudia:</span> Não é? [Risos da Claudia]. [<span class="b">Raafa:</span> Definitivamente]. Eu sou uma boa religiosa.
+    
+    <span class="b">Raafa:</span> É, cê disfarça bem, tá jogando bastante Among Us.
+    
+    <span class="b">Claudia:</span> Tô. 
+    Eu acho que o grande lance não é nem o incentivo à mentira que esse jogo faz. Um ensinamento, olha só, um ensinamento que eu tirei com Among Us é: saiba aproveitar as oportunidades. [Raafa tentando falar]. Não, porque sempre vai ter o cara que fala demais. Que fica acusando todo mundo toda hora… esse cara aí, dependendo de como que ele fala, né, porque como a gente já discutiu aqui, é importante você ter confiança na hora que você tá falando, se esse cara ele não tiver essa confiança, ele vai ser sempre o cara suspeito. [<span class="b">Raafa:</span> É.]. E, tipo, não mata esse cara na primeira, porque esse cara vai poder ser um bom bode expiatório depois, no final. Sabe, tem muita coisa, muito lance de observação que você faz pra você poder se sair bem. Obviamente: tire do Among Us somente os aprendizados bons, porque passar por cima das pessoas para arrumar emprego não é coisa de crente não. Passar em cima do cara lá no Among Us é legal e pode? Pode. Mas na vida, não pode fazer isso.
+    
+    <span class="b">Raafa:</span> Essa é a separação que tem que existir. É um conjunto de regras onde aquilo ali é permitido. Na vida real são outros conjuntos de regras a qual o Among Us não se aplica, então não pode.
+    
+    <span class="b">Claudia:</span> Mas, por exemplo, o cara... vamos pegar o exemplo do filho do pastor. O filho do pastor [<span class="b">Raafa:</span> Hãm.] não deveria ficar mentindo por aí, né? A gente espera.
+    
+    <span class="b">Raafa:</span> Não, nem o filho do pastor, nem o filho da-
+    
+    <span class="b">Claudia:</span>  Não, mas é porque o filho do pastor tem mais peso, né. [<span class="b">Raafa:</span> Tá]. Beijo, Sarinha. [Risos do Raafa]. Ele… ele não, não é de mentir, sabe? Ele é o filho pastor, ele não mente. Aí ele começa a jogar Among Us, aí ele pega as manhas... Aí ele vai pegando, tipo, o gosto de tá lá jogando e de ser o impostor e de ficar mentindo pra caraca, o tempo todo... Aí vamos supor que, tipo, ele se deixa tanto assim… se levar pelo jogo que daí ele acaba absorvendo pra vida dele. Então, no caso, esse cara ele tem um risco- um cara que não mente, sabe, não mente. Ele tem o risco de virar um mentiroso compulsivo no Among Us?
+    
+    <span class="b">Raafa:</span> Esse jogo é um problema pra esse cara, e não só esse jogo. Qualquer… assim, o que que eu acho que é errado: qualquer coisa que te induz a fazer aquilo na vida real no caso de jogo, então o Among Us ele é perigoso pro cara que pode ser um mentiroso compulsivo assim como o GTA é <ispan class="i">prum</ispan> psicopata! Entende? É errado o jogar GTA, atropelar as velhinhas na rua? [Risos da Claudia]. Eu não acho que seja, mas quando você pega aquilo ali e fala: "seria legal fazer isso aqui na rua de casa", aí é um problema, cara. Aí é um problema. É por isso que eu acho que não é um problema você jogar ele, só que quando ele passa a querer entrar na sua vida pessoal, aí tudo é um problema. Tudo é um problema.
+    
+    <span class="b">Claudia:</span> E será que o mentiroso compulsivo tem chances no Among Us?
+    
+    <span class="b">Raafa:</span> Eu vou te falar que, assim, eu conheço pessoas que mentem inacreditavelmente bem e na cara de pau, tipo, de você saber que é mentira mas o cara não tá nem aí, ele vai mentir porque só você sabe ali, se você falar alguma coisa é sua palavra contra a dele então ele vai bater na verdade dele, mesmo você sabendo que é mentira. Então, eu já-, não, não convidei porque seria muita <span class="i">cara de pauzisse</span> minha falar: "Nossa, você seria um excelente jogador de Among Us!", mas eu conheço pessoas que me dá vontade de falar assim: "Cara, você jogaria esse jogo maravilhosamente bem.". Eu já tive vontade de convidar certas pessoas pra jogar pra ver como que a pessoa se sairia mentindo aqui. E são pessoas que, que nem eu falei, têm a posição, têm a postura de falar e todo mundo ser ludibriado pela pessoa.
+    
+    <span class="b">Claudia:</span> Mas, assim, mentir pro nada é tranquilo, é só tu falar uma coisa que não é verdade. Mas, agora, você tá num lugar que você é basicamente obrigado a mentir... será que rola?
+    
+    <span class="b">Raafa:</span> Tá em casa. Tipo, ela tá no ambiente onde ela mais precisa fazer o que ela sabe.
+    
+    <span class="b">Claudia:</span> É, a profissão… se mentir fosse uma profissão, o cara tava rico.
+    
+    <span class="b">Raafa:</span> Olha, com certeza. Eu consigo imaginar certas pessoas jogando e se saindo muito bem, não por causa da mentira, mas porque tem a imposição, cara, tem a postura de falar e as pessoas acreditar.
+    
+    <span class="b">Claudia:</span> É aquele negócio de ser convincente.
+    
+    [sobe trilha] 
+    <span class="i">
+      Alegria, veio quando eu acordei
+      Ele me ouviu, e a mágoa retirou
+      Fortaleceu meus pés me levantou
+    </span>
+    [desce trilha]
+    
+    [sobe trilha]
+    <span class="i">
+      Pull your window down
+      Tinted glass is hiding your eyes
+      It's your favorite disguise
+      
+      Tradução:
+      Abaixe a sua janela
+      Óculos coloridos escondem seus olhos
+      É o seu disfarce favorito
+    </span>
+    [desce trilha]
+    
+    <span class="b">Claudia:</span> O Among Us é o- se tornou o pai da mentira. [Risos do Raafa]. Né, mas temos as outras mentirinhas, né, as tais das mentiras sociais, o tal do "Li e concordo com os termos", sendo que você não leu os termos.
+    
+    <span class="b">Raafa:</span> Então, é, aí eu te faço uma pergunta sobre isso: isso é uma mentira?
+    
+    <span class="b">Claudia:</span> Você tá falando que você leu o bagulho e concorda, mas você não leu, e se você lesse você não ia concordar, né, mas você só quer, sei lá, entrar na rede social. O que que ela vai fazer com os meus dados? Não importa, eu só quero entrar e eu não vou ler pra eu não desistir. Mas, aí, uma pergunta assim: quando eu minto no "Li os termos", quando eu minto pra isso, eu não tô mentindo pra alguém ou eu tô mentindo pra alguém? E se eu não estou mentindo pra alguém, é uma mentira?
+    
+    <span class="b">Raafa:</span> Eu acho que você tá mentindo pra alguém.
+    
+    <span class="b">Claudia:</span> Além de ser pra você mesmo.
+    
+    <span class="b">Raafa:</span> É, você tá mentindo pra alguém e essa pessoa pode ter escrito o que ela quiser ali e você, é… Eu acabo me contradizendo um pouco quando eu perguntei se era uma mentira porque é, realmente é uma mentira sim porque você tá dando liberdade pra pessoa fazer o que ela quiser dependendo do que ela colocou ali. Então, é, na maioria dos aplicativos hoje eles te pede permissão pra acessar lista de contatos, acessar galeria… Todo aplicativo que você acessa tem isso. Então você não sabe o que que é aquilo ali, você não sabe quando aceita os Termos de Uso, é, porque que ele tá pedindo acesso à sua galeria e você, será que você concordaria mesmo se você soubesse o motivo de que eles tão querendo acessar a sua galeria ou sua lista de contatos? Então realmente é uma menti-
+    
+    <span class="b">Claudia:</span> Eu nunca li os termos mas, assim, ele diria porque que eu tenho que dar acesso pra ele?
+    
+    <span class="b">Raafa:</span> Eu acho que ele... não sei se diria explicitamente mas ele daria uma volta só pra dizer que ele precisa do acesso à sua câmera, porque não faz sentido ele pedir acesso a sua câmera e não… e pelo menos não dizer pra que que ele quer usar. Sei lá… é, importar seus contatos pra dentro do aplicativo, um exemplo: "Ah, a gente quer acessar sua lista de contatos porque nós precisamos sincronizar os seus contatos com a sua conta", um exemplo: "Ah, nós precisamos de acesso ao seu microfone porque lá dentro você tem acesso a gravação de áudio". Só que tem programas que não usam isso [<span class="b">Claudia:</span> Sim], não usam gravação. [<span class="b">Claudia:</span> Esse é o ponto]. E ele pede permissão do telefone… do microfone.
+    
+    <span class="b">Claudia:</span> Tem um aplicativo que pede permissão do microfone e, tipo, ele nem tem função de áudio. [<span class="b">Raafa:</span> Exato]. É, tipo, por que que você quer isso, mano? 
+    
+    <span class="b">Raafa:</span> Tinha que ser explicado. Eu nunca li os Termos do Contrato, é uma mentira a gente aceitar esses termos sem ler e… mas eu imagino que eles devem explicar ou pelo menos teriam que explicar o porquê que eles pedem esse acesso.
+    
+    <span class="b">Claudia:</span> Mas é claro que ele vai colocar lá: "Vamos pedir a permissão do seu microfone pra gente ouvir as tuas conversas quando você tá conversando com as pessoas aí no mundo real pra gente descobrir se… quando você for um bandido pra gente te denunciar para o FBI". [<span class="b">Raafa:</span> Entendi]. Teve um dia, faz um tempão já, que eu fiquei um pouco perturbada da minha cabeça. Eu tô entrando numa parada nova, aí eu vou lá: clico no "Li e Concordo" sem ter lido e concordado com nada, Jesus volta naquele momento que eu dei o "Ok". [<span class="b">Raafa:</span> Isso é um problema]. Eu fiquei maluca da minha cabeça, tipo, eu vou ou fico? Eu acho que eu fico, porque eu não li. Mas, puts grilo, eu vou perder a minha, a minha salvação porque eu não li os termos? Isso seria justo, Jesus? Mas ele falou que, [Risos do Raafa] que os mentirosos não herdarão o Reino! E eu, ai, tipo, deu um nó que eu sonhei, mano, depois. E foi, tipo, horrível.
+    
+    <span class="b">Raafa:</span> É, complicado, ainda bem que a salvação é pela graça.
+    
+    <span class="b">Claudia:</span> Aí agora eu só passo o olho, tá ligado? Eu passo o olho, aí eu dou um "Ok". Eu continuo sem ler mas eu pelo menos vi as coisas que estão escritas.
+    
+    <span class="b">Raafa:</span> Eu leio os títulos porque esses termos costumam ter vários subtítulos, aí você vai descendo, aí tem sobre, é, "Uso do Aplicativo", aí cê desce mais tem "Termos e Condições de, sei lá, de <span class="i">download</span>", um exemplo só [<span class="b">Claudia:</span> Uhum], e aí eu leio aqueles subtítulos. O que eu acho interessante, por exemplo, é, assim, quando você cria uma conta no YouTube você tem que ler os Termos, né? Eu li sobre... uma coisa que eu li nos temos do YouTube que era a respeito da monetização de vídeo: que o que que é permitido monetizar, o quê que não é, o que que causa desmonetização do vídeo, e tal, isso eu li. Aí… e aí o que eu faço é isso: é ler os subtítulos dos termos e ler um pouco do que realmente me interessa.
+    
+    [sobe trilha]
+    [desce trilha]
+    
+    <span class="b">Claudia:</span> Vamos, vamos para as mentiras sociais.
+    
+    <span class="b">Raafa:</span> Ó, tem uma muito boa que é a famosa "já  já tô chegando aí!". [Risos da Claudia]. E aí? E aí eu vou pro mesmo lado que você: "já já tô chegando aí", você nem saiu de casa ainda. Aí Jesus volta na hora, e aí? E aí? Vai ser imputado sobre você essa mentirinha?
+    
+    <span class="b">Claudia:</span> Não! Eu não saí [Raafa tentando falar] mas eu vou sair, então já estarei lá. Eu não saí agora, mas eu vou estar lá.
+    
+    <span class="b">Raafa:</span> E o seu coração que sabe que você quis dizer que já tava chegando, mas na verdade você nem saiu de casa ainda? Outro exemplo: "Já tô no caminho!",  aí você tá tomando banho. Você mandou… você mandou debaixo do chuveiro que tava no caminho e tipo, a pessoa não sabe que você mentiu, mas você sabe que você mentiu, sabe?
+    
+    <span class="b">Claudia:</span> Aí… esse caso aí já é… já é errado. Por isso que é melhor falar "já tô chegando" do que "já estou indo". Porque indo você não tá indo, mas chegando você tá. Em algum momento você vai chegar.
+    
+    <span class="b">Raafa:</span> O "já" imputa que falta muito pouco tempo para você chegar.
+    
+    <span class="b">Claudia:</span> Mas aí, dependendo da distância é pouca, ué.
+    
+    <span class="b">Raafa:</span> É… Tudo bem, tudo bem. É que foi muito vago o exemplo [Risada da Claudia] É que a mentira, ela tá mais dentro do coração do que dentro da sua vontade de sobressair. Porque a mentira, essas mentiras sociais, ela nada mais é do que uma maneira de você tirar uma vantagem para você. De você sobressair de uma situação às vezes que possa complicar né? [<span class="b">Claudia:</span> Hum…] Então você, sei lá… Sei lá, tem, tem… Pode, pode dar outros vários outros exemplos. Você faltou do serviço porque você não acordou, você tipo, sei lá, você não acordou e aí você bota a culpa em qualquer outra coisa: "Ah, o tran- peguei muito trânsito, aí vou chegar atrasadão hoje". Ou, sei lá, "não despertou". Mas despertou, você que não acordou mesmo, entendeu?
+    
+    <span class="b">Claudia:</span> Ó, o "despertadou". Uma coisa é o celular despertar, outra coisa eu despertar! [Riso do Raafa] Não despertou, mas eu não falei quem não despertou. 
+    
+    <span class="b">Raafa:</span> Não desper… Então mas aí é que tá! A mentira tá dentro de você! [<span class="b">Claudia:</span> Então] você… [rRsos só Raafa] 
+    
+    <span class="b">Claudia:</span> Então, tu tocou num ponto muito bom: a intenção do coração. Porque Deus conhece a intenção do coração! E se eu falei uma inverdade mas sem a intenção de mentir e causar um mal?
+    
+    <span class="b">Raafa:</span> É mentira! [Risos da Claudia] É mentira, é mentira! Já f- eu sou cristão cara. Eu tô lutan- é uma luta diária <span class="i">vey</span>. A gente tem vários pecados, mas a mentira é uma que bate na nossa porta todo dia, e são sempre essas mentirinhas bobas! São sempre essas mentirinhas bobas. Então você tá o tempo todo manipulando o seu próprio português pra quando alguém tentar te questionar, você usa o português contrário pra falar "não mas eu disse isso aqui…" Poderia ser sei lá, eu poderia tá falando sobre o exemplo do "já tô chegando". Se você… ó "já tô chegando" a pessoa falou: "pô, você demorou um tempão". Ah, mas eu não disse quando, entendeu? [Riso da Claudia] Eu disse que já tô chegando, mas eu não disse quando. Então você usa a sua própria… o seu próprio português, a sua própria sentença que você formou, para manipular uma mentira e não parecer que você mentiu. 
+    
+    <span class="b">Claudia:</span> É igual tipo, tu falar… eh… sei lá, "vai para casa do chapéu" quando tu tá querendo mandar [<span class="b">Raafa:</span> Ã-hã.] aquele palavrão do seu… [<span class="b">Raafa:</span> Palavrão] do seu âmago. Continua sendo um palavrão. <span class="b">Raafa:</span> [incompreensível] no seu coração você foi bem ofensivo com a pessoa, sabe?
+    
+    <span class="b">Claudia:</span> Uhum. Só fala "vai pastar!", mas aí dentro de você, você xingou até a terceira geração do cara.
+    
+    <span class="b">Raafa:</span> É, com certeza. E a mentira é a mesma coisa. Você manipula a mentira para não parecer que foi mentira, mas no seu coração você sabe que você mentiu.
+    
+    <span class="b">Claudia:</span> E se… vamos supor: você tá numa situação desconfortabilíssima Você… não mentir, porque no caso seria mentir assim, <em>MENTIR</em>, é uma palavra muito forte. Mas assim, você dá uma omitida tipo--
+    
+    <span class="b">Raafa:</span> É mentira.
+    
+    <span class="b">Claudia:</span> Não, calma. Deixa eu terminar de formular. Você dá uma omitida porque se você falar a verdade você pode causar um prejuízo enorme. Tipo, não é algo que… que vai… que vai tá valendo, sei lá, o emprego de ninguém. Não é algo que vai tá valendo nada. Mas é assim… é um negócio que se você falar vai causar… assim… não um mal gigante, mas vai trazer coisas ruins.
+    
+    <span class="b">Raafa:</span> Pra mim a omissão é uma mentira velada, sabe?
+    
+    <span class="b">Claudia:</span> Dependendo da situação a omissão é até pior do que a mentira.
+    
+    <span class="b">Raafa:</span> Na real, eu… eu… [<span class="b">Claudia:</span> Eu acho.] sempre achei isso. Eu sempre achei a omissão bem pior do que a mentira. A mentira é algo que, tipo, eu abomino em qualquer situação (desde que não seja no Among Us, porque é muito bom mentir no Among Us). 
+    
+    <span class="b">Claudia:</span> Olha só! Mas no Among Us que começa tudo. Daqui a pouco tu tá virando um mentiroso compulsivo.
+    
+    [Risos]
+    
+    <span class="b">Claudia:</span> E o "tudo bem"? 
+    <span class="b">Raafa:</span> Então. "Tudo bem", se não tá tudo bem é mentira.
+    
+    <span class="b">Claudia:</span> Mas e aquela mulher que ficava falando “tudo bem, tudo bem, tudo bem” com filho morto em casa?
+    
+    <span class="b">Raafa:</span> Ela tá evitando curiosidade. Porque assim, eu não... eu não vou entrar na questão se é certo ou errado; mas imagino que seja errado. Mas o que essa pessoa tá fazendo é evitar curioso que não vai poder fazer nada, sabe? Porque, tipo, eu vou falar por mim porque eu já fiz muito isso. Às vezes estava destruído e ninguém pode resolver nada por mim, então a pessoa pergunta: “você tá bem?”, “ah, eu tô”, mas é só para evitar ter que ficar explicando, sabe? Só para fugir de ter que explicar. “Ah, eu tô bem” e a pessoa: “Que bom.” e ela vai embora. Porque se você fala “não tô legal”,  ela vai falar: "pô, o quê que aconteceu? Como é que… Desabafa.” Não, eu não quero. Eu não tô muito legal. O dia que quiser desabafar eu te chamo e eu mesmo desabafo.
+    
+    <span class="b">Claudia:</span> Ela tava lá falando pra todo mundo que tava tudo mui– tava tudo bem e ganhou um milagre! O tudo bem de “não quero ninguém se metendo na minha vida” se formou... se jun–  se uniu com uma fé, e não... e não se anularam!
+    
+    <span class="b">Raafa:</span> Eu acho que foi meio que profético ela “tá tudo bem”? Tentando aceitar que tá tudo bem e aí ficou tudo bem?
+    
+    <span class="b">Claudia:</span> Foi, né? Ela tava indo atrás do profeta, né? 
+    
+    <span class="b">Raafa:</span> Ahn… Aí no caso não é mentira? Ela tá dizendo que tá tudo bem, mas ela no caso só está projetando o futuro dela? 
+    
+    <span class="b">Claudia:</span> Mas é o ponto! Foi isso que eu te perguntei. Perguntei primeiro tu responde.
+    
+    <span class="b">Raafa:</span> Então... eu não sei… [Risos da Claudia] Nesse caso aí é complicado, porque aí vai de novo na intenção do coração. Será que ela “tá tudo bem”... como tá o coração dela? Se ela realmente acredita nesse “tudo bem profético'', aí tudo bem. Aí realmente tudo bem! Agora, se esse “tudo bem” é aquela questão que eu falei: é simplesmente para evitar curiosos querendo saber o quê que tá pegando, aí talvez seja errado.
+    
+    <span class="b">Claudia:</span> E eu já ouvi de púlpito nego falando... pregando essa palavra aí. E daí, falando que quando tiver tudo ruim na sua casa diga que tá tudo bem, porque Deus vai fazer um milagre. Mas como assim, mano?
+    
+    <span class="b">Raafa:</span> Não… Eu tenho uma resistência contra esse tipo de pregação.
+    
+    <span class="b">Claudia:</span> Não é assim que funciona! “Simplesmente vai dar tudo bem”... e se Deus não quiser que esteja tudo bem? Como é que fica?
+    
+    <span class="b">Raafa:</span> Pois é. Existe esse grande quesito aí que a gente muitas vezes não quer aceitar: que tem que ficar tudo bem. Nem sempre tem que ficar tudo bem. E a gente não pode viver em “denial”, né; em negação. Nós não podemos negar... Assim, a gente é crente; a gente é cristão; nós somos diferentes do mundo, mas a gente não pode viver num conto da Carochinha achan... fazendo os outros acreditarem que tá tudo bem sempre porque a gente é cristão. Não, a gente vive... talvez a gente viva mais lutas do que eles, só que a gente tem aonde se apoiar, a gente tem o que buscar para lidar com certos problemas.
+    
+    <span class="b">Claudia:</span> Às vezes é aquele negócio lá da... da vitória com sabor de mel. Às vezes não vai ter vitória.
+    
+    <span class="b">Raafa:</span> É. E nem vai vir com sabor de mel…
+    
+    <span class="b">Claudia:</span> E aí tu vai... tu vai fechar a cara e vai... vai largar tudo porque não teve vitória? 
+    
+    <span class="b">Raafa:</span> Isso aí... esse assunto acaba saindo um pouco da pauta, né, sobre a mentira. Mas acontece que muita gente afasta e desvia da igreja por entrar, vir pra Cristo, acreditando no cristianismo totalmente triunfalista, onde você vai vir pro mundo de Jesus, né, vai vir pro cristianismo e tudo vai dar certo, tudo vai ser sempre muito bom para você. E aí a primeira luta pessoa fala: “Pô, eu achei que ser cristão era ter uma vida melhor e não é. Eu tô tendo luta do mesmo jeito.” E aí, é pela porta que a pessoa entrou ela sai, porque se decepcionou o cristianismo triunfalista que ela escutou sendo pregado em diversos lugares.
+    
+    <span class="b">Claudia:</span> Mas isso faz total parte da pauta! Não, a gente não saiu da pauta. Porque realmente esse negócio de ficar pregando... pega mais sobre... sobre vitória do que sobre processo. Aí o cara só vai ficar ouvindo que vai ter vitória, vitória, vitória, vitória, aí ele vai achar que é aquilo. E ele vai começar a mentir para si mesmo! [<span class="b">Raafa:</span> Boa! Isso aí!] E aí o cara que só ouve direto que vai ter vitória, vitória, vitória; a chave de carro, chave de casa, ele vai achar: “Não, realmente na igreja é lugar disso mesmo. Vou pra lá, porque eu estou precisando de um carro novo!” Mas assim, não sabe que vida com Deus é processos e, tipo assim, cada um tem a sua experiência particular. A vida com Deus ela é individual, que gera um todo… um… um grande coletivo. Tipo, no caso, ele mentiu para si próprio e vai acabar se frustrando com a sua própria mentira que ele criou para si mesmo! 
+    
+    <span class="b">Raafa:</span> Mas essa mentira... ela acaba sendo mais de quem pregou do que da pessoa que escutou e aceitou pelo com verdade. Porque é isso: ela simplesmente aceitou aquilo ali como verdade. Ela precisa se desvincular desse falso cristianismo onde tudo é benção, e ler a Bíblia, e entender que aquilo ali não é uma verdade, entendeu? Só que fica outro ponto: quando você acredita numa mentira, mas você não tem a real verdade, aquilo ali é sua verdade. Você... Você tá no... você tá debaixo do jugo da ignorância ainda. Então, o cara que converte dentro de uma igreja triunfalista, não é que ele tá mentindo, é o que ele o que ele recebeu e é o que ele acredita. O que ele precisa é realmente receber uma palavra que mostre para ele o Verdadeiro Evangelho.
+      
+    [sobe trilha]
+    [desce trilha]
+    
+    <span class="b">Claudia:</span> E assim, só para a gente encerrar; eu não podia tá num podcast de mentira sem falar de Davi. Porque ele cobiçou a mulher do coleguinha [<span class="b">Raafa:</span> Isso!] e mentiu para colocar o coleguinha [ <span class="b">Raafa:</span> Na linha de frente] na linha de frente na hora da morte! O cara foi O Cara Segundo o Coração de Deus!
+    
+    <span class="b">Raafa:</span> Mesmo mentindo, né? 
+    
+    <span class="b">Claudia:</span> Como ele pode ser o Cara Segundo o Coração de Deus e eu não posso mentir jogando o meu Among Us?
+    
+    <span class="b">Raafa:</span> Davi… Davi foi um cara muito louco aí que tem seus motivos, né, pra ser o homem segundo o coração de Deus. Ele sofreu as consequências da mentira dele; ele não passou impune. 
+    
+    <span class="b">Claudia:</span> Exatamente. Ele viu aquilo ali, ele sofreu até o último ponto, e daí a vida dele virou. Mas ele mesmo assim, mesmo sendo homem segundo o coração de Deus ele, não pode construir o templo. Como assim?
+    
+    <span class="b">Raafa:</span> Era o propósito de Deus, né? Que fosse para o filho dele. Que aquilo ali fosse para o filho dele.
+    
+    <span class="b">Claudia:</span> Qual é a tua interpretação desse texto do Davi sofrendo pela criança que tava morrendo e só saiu do quarto quando a criança morreu?
+    
+    <span class="b">Raafa:</span> Noss… caramba, nunca parei para pensar nesse que... porque a gente tá falando sobre mentira. Eu nunca tinha pensado no contexto geral dessa situação. Mas eu não sei se existia uma esperança em Davi. Uma esperança de que Deus poderia gerar aquela criança mesmo sendo fruto de uma mentira e fruto de um adultério, de um pecado. Mas eu não sei. Na minha cabeça vem que Davi só saiu dali porque ainda tinha esperança de que Deus poderia reverter a situação e transformar aquela... aquela criança em alguém usada por Ele.
+    
+    <span class="b">Claudia:</span> Porque tem um hino, um louvor, uma música gospel —  eu não sei como é que é o pessoal tá chamando agora as paradas.  E eu não eu não vou dizer que é um louvor, porque não... não adora... tipo, não é uma canção direcionada a Deus, né? [<span class="b">Raafa:</span> Ã-hã.] Mas ela fala assim: que Davi tava adorando naquele processo de morte, e exalta Davi como um adorador. Só que assim, sempre quando eu li esse texto a minha interpretação era: ele tava naquele momento ali, porque ele tava sofrendo e ele tava vendo que o que ele fez gerou uma vida errada e uma vida morta. E tipo assim, ele não tava lá adorando porque ele queria se livrar daquela situação assim… com vitória; ele só queria sair daquela situação. Tanto que ele só saiu do quarto real depois que a criança morreu! [<span class="b">Raafa:</span> Exato.] Ele tava lá escondido com vergonha do que ele fez, porque, tipo assim, ele não só pegou a mulher do outro cara, ele ainda levou aquele cara para morrer. Certo? Então assim, ele tava ali com vergonha do que ele fez, processando o que ele fez, entendendo o que ele fez. Não como se ele gerasse uma esperança, mas assim, se ligando que o que ele fez — além de ser feio, de ser errado —  ainda causou uma bola de neve de situações que ele teve que fazer muita coisa errada. Aquela criança foi, tipo assim, o ponto alto da mentira dele; de toda essa situação que ele trouxe pra si! Ele não tava ali como um adorador, ele estava ali como um pecador.
+    
+    <span class="b">Raafa:</span> Arrependido. Você acha que ali naquele momento houve uma mudança no coração de Davi? Naquele momento ali se divide o Davi em dois? 
+    
+    <span class="b">Claudia:</span> Eu acho que sim. Me apaga da cabeça qualquer coisa que Davi possa ter feito depois disso. Tipo, eu não... eu não consigo recordar. Tem um vão na minha cabeça que eu não lembro! Talvez eu possa tá querendo inventar demais! Quando ele faz tudo isso, todas essas mentiras, essas mortes, esses pecados, ele vê “eu não sou tão grande assim”, sabe? E aí, o que eu acho, assim, que ele começa a se repensar, e aí a verdadeira transformação começa aí: ele foi criando um hábito de se tornar cada dia mais Segundo o Coração de Deus. Então assim, a mentira ela é horrível, ela vai gerar consequências horríveis. Mas assim, como tudo na vida que a gente faz que é errado, que gera coisa ruim não só para gente mas para os outros também, quando a gente começa a aprender com tudo que a gente faz —  seja bom, seja ruim —  a gente cresce como pessoa. E quando a gente começa a se conhecer melhor a se perceber melhor, tudo se... vai se... começando a se encaixar e vai dando certo, entrando no seu devido lugar. É essa a interpretação que eu tiro, e eu posso estar falando muita besteira! Se eu estou falando besteira me perdoe, mas…
+    
+    <span class="b">Raafa:</span> Bela reflexão. Curti a reflexão de verdade mesmo.
+    
+    <span class="b">Claudia:</span> Mais um personagem bíblico (isso aqui é um podcast cristão então vamo tacar Bíblia dentro desse podcast!)  Abraão: [<span class="b">Raafa:</span> Ãhn…]  "Ah não,  essa… essa mulher aqui que é a minha mulher na verdade ela é minha irmã." [<span class="b">Raafa:</span> Hã.] Abraão recebeu promessa – de ti farei uma grande nação – Mentiu acho que umas duas, três vezes com aquela desculpinha: "se eu falar que Sara é minha mulher os caras vão estuprar ela. Mas se eu falar que ela é minha irmã nada vai acontecer." Por quê que isso brotou na  cabeça dele? Por que eles vão respeitar mais a mulher dele por ser irmã dele, do que por ser a mulher dele?
+    
+    <span class="b">Raafa:</span> Mas isso tor… isso torna a mentira aceitável? Eu acho que de forma alguma.
+    
+    <span class="b">Claudia:</span> Se eu não me engano teve um cara que pegou ele. Que era… ele só mentia nesses… nesses momentos assim, que ele tinha que passar por algum lugar. Aí teve um rei que pegou ele, falou: "Olha cara, essa mulher aí não é sua irmã. Por quê que você meteu um caô na minha cara? Na minha frente? Você pode passar." Se eu não me engano foi mais ou menos isso…" você pode passar mas, oh, você não vai levar nada!" Foi mais… eu acho que se eu não me engano foi isso. 
+    
+    <span class="b">Raafa:</span> Então, eu realmente não tô lembrado agora. 
+    
+    <span class="b">Claudia:</span> O quê que Sara tinha, sendo uma senhora idosa, que se fosse vista como mulher de outro cara ia dar ruim, mas sendo irmã do cara não ia? Não seri- não deveria ser o contrário? [<span class="b">Raafa:</span> É.] Abraão, pelo que parecia, ele tinha.. ele tinha nome, ele era, tipo, ele era um cara respeitável. Eu não vou pegar a tua irmã, mas eu se tu tiver mulher vou pegar? Isso não entra na minha cabeça. 
+    
+    <span class="b">Raafa:</span> Não faz sentido.
+    
+    <span class="b">Claudia:</span> Não faz sentido nenhum! E de novo, outro cara que conseguiu o propósito de Deus na vida dele. E por quê que eu não posso mentir no meu Among Us? 
+    
+    <span class="b">Raafa:</span> Isso… isso acaba fazendo é… parecer que tornar mentira aceitável, mas não, a mentira não é aceitável. É porque falando assim dá impressão de que: ah, Abraão mentiu, Davi mentiu e todos eles receberam as suas promessas, entre aspas né. Receberam entre aspas as promessas de Deus pra sua vida. Então eu, mero pecador aqui, que tô bem abaixo desses caras, eu vou… vou mentir ali porque eu sei que vai dar tudo certo. Cara, eu acho que em Abraão o que a gente pode ver é a graça de Deus, né? Porque não foi implantada consequências sobre ele pelo… pela mentira. 
+    
+    <span class="b">Claudia:</span> Gênesis 20. Quem pegou Abraão foi Abimeleque. Ele foi passar por um lugar e daí ele meteu o <span class="i">caôzinho</span> que era mulher dele. Aí ele falou lá que era irmã… [<span class="b">Raafa:</span> Isso…] Deus revelou pra Abimeleque que Sara era irmã de Abraão. [<span class="b">Raafa:</span> Ã-han] O Abimeleque quis pegar a Sara, aí Deus revelou para Abimeleque nos sonhos e disse: <blockquote cite="Gênesis capítulo 20 versículo 3 versão Ameida Revisada e Aualizada">
+      <p>"vais ser punido morte por causa da mulher que tomastes, porque ela tem marido."</p>
+    </blockquote> Aí Abimeleque ficou pistola, né. Lógico que ficou pistola. Abimeleque questionou ele, né? Questionou Abraão porquê que ele meteu o <span class="i">caôzão</span> na cara dura. Aí Abraão falou:
+    <blockquote cite="Gênesis 20:11 versão Ameida Revisada e Aualizada"><p>"eu dizia comigo mesmo certamente não há temor de Deus nesse lugar e eles me matarão por causa da minha mulher."</p></blockquote> 
+    Mano, Sara devia ser a mulher mais incrível do mundo! 
+    
+    <span class="b">Raafa:</span> Né!
+    
+    <span class="b">Claudia:</span> Aí que vem o <span class="i">plot twist</span> Raafa! Que a gente não tava esperando! O balde de água fria agora para fechar o podcast. <blockquote cite="Gênesis capítulo 20 versículo 12 versão Ameida Revisada e Aualizada">
+      <p>"Por outro lado ela de fato é também minha irmã filha de meu pai e não de minha mãe e veio a ser a minha mulher."</p>
+    </blockquote>
+    
+    [Trilha do meme do esquilo dramático]
+    
+    <span class="b">Raafa:</span> <span class="i">Plot twist</span>! [Claudia ri] Caraca eu juro que eu não sabia disso. Eu não sabia disso.
+    
+    <span class="b">Claudia:</span> Nossa Abraão mereceu viver a promessa porque ele não mentiu!
+    
+    <span class="b">Raafa:</span> Ele não mentiu, cara. Eu tava pesquisando aqui mano as consequências do pe– da mentira de Abraão e não tem. [Claudia ri] Não tem consequência porque não tem mentira!
+    
+    <span class="b">Claudia:</span> E tipo, a consequência que aconteceu com ele foi que ele conseguiu mais terra irmão.
+    
+    <span class="b">Raafa:</span> Exato!
+    
+    <span class="b">Claudia:</span> Viu pessoas não mintam, fala a verdade! [Raafa ri] Oh, mas tem um porém: ele omitiu! 
+    
+    <span class="b">Raafa:</span> Ele omitiu! 
+    
+    <span class="b">Claudia:</span> "Ela é minha mulher, mas ela também é minha irmã, mas eu só vou falar que ela é minha mulher.”
+    
+    <span class="b">Raafa:</span> "Depois eu revelo que ela é minha irmã…" 
+    
+    <span class="b">Claudia:</span> Noooooossaaa!
+    
+    [Os dois riem]
+    
+    <span class="b">Claudia:</span> E é assim, com esse balde de água fria, que a gente encerra esse programa! 
+    
+    <span class="b">Raafa:</span> Balde gelado!
+    
+    <span class="b">Claudia:</span> Nossa, aquele… aquele <span class="i">challenge</span> lá do balde de gelo. [<span class="b">Raafa:</span> É, eu lembro. Eu lembro.] Foi isso nesse momento.
+    
+    [Claudia ri]
+    
+    <span class="b">Claudia:</span> Raafa, faça o seu jabá, dê suas considerações finais e sinta-se à vontade para você fazer o que você quiser. Esse momento é seu.
+    
+    <span class="b">Raafa:</span> Muito obrigado, eu tô muito feliz tá participando desse podcast e eu não tenho muito o que fazer não. Rede social é tudo Raafa com dois "A" Beringui. Todas elas; todas as redes sociais é isso. E eu também estou começando um podcast, tem um podcast gravado sobre The Last of Us parte 2. Tá cheio de <span class="i">spoiler</span> lá. Se você não jogou, não sabe o quê que é, não vai lá escutar. Mas se chama Conversa na Calçada. E é isso. 
+    Tô muito feliz. Lu, muito obrigado por me convidar para participar desse momento incrível que é o primeiro podcast.
+    
+    <span class="b">Claudia:</span> E é isso aí. Você tá feliz, mas eu não sei, eu acho que eu tô mais feliz, porque além de tá enfim tirando esse projeto do papel, esse programa foi uma delícia de gravar apesar do balde de água fria no final, foi, oh, muito bom conversar contigo aqui. E é muito bom, cara, além disso, é saber que desde os primórdios da ideia inicial você esteve lá e eu quero muito te agradecer, porque você que deu o empurrão, o apoio. Então assim, se… se esse trem existe, é, você tem tem parcela de culpa. Se for ruim esse podcast, parcela de culpa é do Rafael, vão lá nas redes dele e falem com ele!
+    
+    <span class="b">Raafa:</span> É, eu sempre acreditei porque sempre foi um plano, um projeto meu também. Sempre quis ter um podcast e quando você falou que… que escutava e que curtia esse tipo de mídia, eu falei: "pronto, achei uma pessoa que a gente pode ter um projeto muito bacana." É isso.
+    
+    <span class="b">Claudia:</span> Bem, claramente você tá dentro desse projeto. O Admirável Cristão Novo surgiu na minha cabeça, mas ele… as portas estão escancaradas para você, entendeu?
+    
+    <span class="b">Raafa:</span> Sempre que chamar–
+    
+    <span class="b">Claudia:</span> Não é sempre que chamar não! Sempre que tu vê um assunto que pode entrar aqui, e talvez não caiba lá no Conversa na Calçada, se tu quiser trazer para cá cê traz. Ele é teu também mano!
+    As redes do Raafa e as minhas estarão <span class="i">linkadas</span> nesse post. O podcast do Raafa também vai tá <span class="i">linkado</span> aqui. E tipo assim, deu vontade de jogar The Last of Us cara, quando eu terminei de ouvir. Mas aí eu fiquei triste, porque para eu poder jogar eu tenho que comprar um play 4.
+    
+    <span class="b">Raafa:</span> Você não tem o Play 4?
+    
+    <span class="b">Claudia:</span> Puts, não.
+    
+    <span class="b">Raafa:</span> Oh, se você arrumar um play 4, cê não precisa comprar o jogo; eu te empresto a minha conta e você joga nela. 
+    
+    <span class="b">Claudia:</span> Nossa, tá vendo? É isto! Isso se chama o quê? Amigo. Amizade. Valorizem os seus que eles vão valorizar você! [Claudia ri]
+    Mais alguma coisa Raafa? 
+    
+    <span class="b">Raafa:</span> Não, por hoje é só. Muito–  só reiterar o meu agradecimento de fazer parte disso aqui. Realmente é um projeto que acreditei durante muito tempo, ficou na gaveta durante muito tempo, mas tô feliz de ele realmente tá acontecendo.
+    
+    <span class="b">Claudia:</span> Paz pessoas! Porque a gente tá precisado.
+    
+    <span class="b">Raafa:</span> Finish? 
+    
+    [sobe a trilha]
+    <span class="i">
+      Se fez, então, diz que sim
+      Se não fez, então, diz que não
+      Que seja o seu falar sim, sim, não, não
+      
+      É gente, falar a verdade é muito melhor!
+      Jesus fica muito feliz quando falamos a verdade!
+      É muito bom!
+      Se fez, então, diz que sim
+      Se não fez, então, diz que não
+      Que seja o seu falar sim, sim, não, não
+      Que seja o seu falar sim, sim, não, não
+      Que seja o seu falar sim, sim, não, não
+      Yeah, yeah, yeah, yeah, yeah
+      Oh, oh, oh, oh, ooooooooooh
+      Nada de mentira, hein!?
+    </span>
+    [a música acaba]
 
-      Encerramento final:
-      Esse foi um episódio Admirável Cristão Novo. Se você gostou, não deixe de recomendar para os seus amigos cristãos ou não cristãos, desse mundo ou de outros mundos também. Sigam nas nossas redes para ficar ligado nas novidades que vierem acontecer. Provavelmente não terá muita novidade, mas segue lá mesmo assim. Para <span class="i">feedbacks</span>, reclamações, sugestões e críticas construtivas, você pode mandar um e-mail para admiravelpodcast@gmail.com. A ficha técnica desse episódio e todas as outras informações que forem relevantes, estarão na descrição Leiam a descrição do podcast. Muito obrigada.
-      
-      [Sobe a trilha]
-      
-      [Fim da transcrição]      
-  
-        <hr id="description"> 
+    Encerramento final:
+    Esse foi um episódio Admirável Cristão Novo. Se você gostou, não deixe de recomendar para os seus amigos cristãos ou não cristãos, desse mundo ou de outros mundos também. Sigam nas nossas redes para ficar ligado nas novidades que vierem acontecer. Provavelmente não terá muita novidade, mas segue lá mesmo assim. Para <span class="i">feedbacks</span>, reclamações, sugestões e críticas construtivas, você pode mandar um e-mail para admiravelpodcast@gmail.com. A ficha técnica desse episódio e todas as outras informações que forem relevantes, estarão na descrição Leiam a descrição do podcast. Muito obrigada.
+    
+    [Sobe a trilha]
+    
+    [Fim da transcrição]      
 
+      <hr id="description"> 
+
+    <div class="links">
       <span class="b">-- FICHA TÉCNICA --</span> <br>
-      <bspan class="b">REDES DO Raafa:</span>
-      Instagram: <a href="https://instagram.com/beringuiraafa">https://instagram.com/beringuiraafa</a> 
-      Twitter: <a href="https://twitter.com/beringuiraafa">https://twitter.com/beringuiraafa</a> 
-      Conversa na Calçada no Spotify: <a href="https://abre.ai/conversanospotify">https://abre.ai/conversanospotify</a> 
-      Conversa na Calçada no Anchor: <a href="https://anchor.fm/raafa-beringui">https://anchor.fm/raafa-beringui</a>  
-
-      <span class="b">REDES DA LUNA:</span> 
+      <span class="b">REDES DO Raafa:</span>
+      Instagram: <a href="https://instagram.com/beringuiraafa">https://instagram.com/beringuiraafa</a>
+      Twitter: <a href="https://twitter.com/beringuiraafa">https://twitter.com/beringuiraafa</a>
+      Conversa na Calçada no Spotify: <a href="https://abre.ai/conversanospotify">https://abre.ai/conversanospotify</a>
+      Conversa na Calçada no Anchor: <a href="https://anchor.fm/raafa-beringui">https://anchor.fm/raafa-beringui</a>
+      <span class="b">REDES DA LUNA:</span>
       Instagram: <a href="">https://instagram.com/asuperluninha </a>
       Twitter: <a href="">https://twitter.com/asuperluninha </a>
-
-      <span class="b">TRILHA DO PROGRAMA:</span> 
-      Spotify: <a href="https://abre.ai/admiraveltrilha01-spotify">https://abre.ai/admiraveltrilha01-spotify</a> 
-      Deezer: <a href="https://abre.ai/admiraveltrilha01-deezer">https://abre.ai/admiraveltrilha01-deezer</a> 
-      YouTube: <a href="https://abre.ai/admiraveltrilha01-youtube">https://abre.ai/admiraveltrilha01-youtube</a>  
-
-      <span class="b">-- UTILIDADE PÚBLICA --</span> 
-      Live do Cinema com Rapadura jogando Cidade Dorme: <a href="https://youtu.be/YGmvOFCQFhg">https://youtu.be/YGmvOFCQFhg</a>  
-      Dramatização toperson de Cidade Dorme - Canal Francisca Brito: <a href="https://youtu.be/mBBkFJAdwls">https://youtu.be/mBBkFJAdwls</a> 
+      <span class="b">TRILHA DO PROGRAMA:</span>
+      Spotify: <a href="https://abre.ai/admiraveltrilha01-spotify">https://abre.ai/admiraveltrilha01-spotify</a>
+      Deezer: <a href="https://abre.ai/admiraveltrilha01-deezer">https://abre.ai/admiraveltrilha01-deezer</a>
+      YouTube: <a href="https://abre.ai/admiraveltrilha01-youtube">https://abre.ai/admiraveltrilha01-youtube</a>
+      <span class="b">-- UTILIDADE PÚBLICA --</span>
+      Live do Cinema com Rapadura jogando Cidade Dorme: <a href="https://youtu.be/YGmvOFCQFhg">https://youtu.be/YGmvOFCQFhg</a>
+      Dramatização toperson de Cidade Dorme - Canal Francisca Brito: <a href="https://youtu.be/mBBkFJAdwls">https://youtu.be/mBBkFJAdwls</a>
+    </div>
+  <hr>   
+</pre>
     
-
-
-    <hr>   
-    </pre>
-     
 

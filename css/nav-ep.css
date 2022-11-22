@@ -1,3 +1,4 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
 
 a.nav-btn {
     display: flex;
@@ -10,26 +11,27 @@ a.nav-btn {
     padding: 1em;
     border: none;
     border-radius: 3em;
-    background-color: rgb(35, 35, 36);
+    background-color: rgb(35, 35, 36, 0.678);
     color: rgb(240, 240, 240);
     cursor: pointer;
     transition: all 0.5s;
     font-size: 1em;
     text-decoration: none;
+    font-family: PT Sans, sans-serif;
 }
 
 a.nav-btn:hover {
-    background-color: #000;
+    background-color: rgb(35, 35, 36);
 }
 
-a.nav.btn span {
+a.nav-btn span {
     cursor: pointer;
     position: relative;
     transition: 0.5;
 }
 
-a.nav.btn span:after {
-    content: '\00AB';
+a.nav-btn span:after {
+    content: '\F27F';
     position: absolute;
     opacity: 0;
     top: 0;
@@ -37,11 +39,11 @@ a.nav.btn span:after {
     transition: 0.5s;
 }
 
-a.nav.btn:hover span{
+a.nav-btn:hover span{
     padding-left: 1.5em;
 }
 
-a.nav.btn:hover span:after {
+a.nav-btn:hover span:after {
     opacity: 1;
     left: 0;
 }
@@ -68,7 +70,6 @@ nav {
 }
 
 #navegation {
-    background-color: blueviolet;
     width: 100%;
 }
 
@@ -76,8 +77,8 @@ a.listen-on {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 0.2em solid rgb(35, 35, 36);
-    color: #000;
+    border: 0.2em solid rgb(4, 4, 148);
+    color: rgb(4, 0, 255);
     border-radius: 0.8em;
     height: 2.5em;
     width: 13em;
@@ -101,13 +102,13 @@ a.listen-on:hover {
     color: rgb(240, 240, 240);
 }
 
-#download-btn {
+.download-btn {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 80%;
+    width: 11em;
     height: 4em;
-    margin-left: 3.5em;
+    margin-left: 1em;
     border: none;
     border-radius: 2em;
     background-color: rgb(35, 35, 36);
@@ -120,7 +121,7 @@ a.listen-on:hover {
     text-decoration: none;
 }
 
-#download-btn:hover {
+.download-btn:hover {
     text-decoration: underline;
 }
 
@@ -128,5 +129,20 @@ a.listen-on:hover {
     #apps {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
+    }
+}
+
+@media (max-width: 425px) {
+    #download-btn {
+        width: 60%;
+        left:0;
+        right: 0;
+    }
+
+
+
+    a.nav-btn {
+        width: 7em;
+        height: 3em;
     }
 }

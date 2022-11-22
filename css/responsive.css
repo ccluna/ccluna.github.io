@@ -118,6 +118,10 @@
         width: 220px;
     }
 
+    div.header {
+        display: none;
+    }
+
     #name-description {
         order: 2;
     }
@@ -147,24 +151,51 @@
     html {
         font-size: 55%;
     }
+
+    #box {
+        justify-content: center;
+        padding: 1em;
+    }
+
+    img.cover {
+        margin-left: 0;
+        left: 0;
+        padding: 0;
+        margin-left: 0;
+    }
+    #name-description p {
+        width: 100%;
+        font: 1.3rem;
+    }
+
     #vol-controls {
         display: none;
     }
 
     #post {
        
-        padding: 10%;
+        padding: 0 8% 0 8%;
     } 
 
     #up-btn {
         width: 2em;
         height: 2em;
-        margin-right: 1.5em;
+        left: 80%;
     }
 
     #float-banner {
         margin-right: 2em;
     }
 
+    footer {
+        
+        transform: translateY(-18.5em);
+        margin-left: 2.5em;
+    }
+
+    footer h4 {
+        margin-top: -1.4em;
+        font-size: 1.4rem;
+    }
 
 }

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/style_ep.css">
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <title>
+        Capítulo 2: Quando a Zoeira Não Tem Fim... Mas Deveria
+    </title>
+</head>
+<body id="home">
+        
+    <header id="box">
+        <div id="name-description">
+            <h1 class="name">Capítulo 2: Quando a Zoeira Não Tem Fim... Mas Deveria</h1>
+            <h2 id="posted">Publicado em: 11/10/2021</h2>
+            <p>Salve agraciados do mundo inteiro e de outros mundo também! Sejam muito bem-vindos ao pior podcast cristão da podosfera cristã intergalática!<br>
+            No episódio de hoje, as primas Claudia Luna e Yasmin Luna, se unem para conversar sobre os crentes zoeiros que vemos por aí e sobre os crentes que respondem as zoeiras dos outros. Há como diferenciar piadas inofensivas de ofensas? Zoeiras gospels são apenas zoeiras ou são blasfêmias? Confira isso e muito mais apertando esse play abençoado aí! Graça e Paz!!</p>
+        <ul class="postcard__tagbox">
+            <li class="tag__item"><i class="bi bi-clock-fill"></i></i>53:29 mins.</li>
+            <li class="tag__item"><i class="bi bi-arrow-down-circle-fill"></i></i>Donwload</li>
+            <li class="tag__item play-btn blue">
+                <a class="p-btn" href="#"><i class="bi bi-play-circle-fill"></i></i>Play</a>
+            </li>
+        </ul>
+        </div>
+        <div id="ep-download">
+            <img class="cover" src="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode400/10549364/10549364-1633992516468-305aee0ef39bf.jpg" alt="Imagem amarelada de um meme de Moisés com os braços abertos; ao fundo, nuvens densas. Abaixo dele está escrito 'que a zoeira começe' Sobre a imagem, os dizeres '#02 - acrentes zoeiros' e a marca do podcast em baixa opacidade.">
+            
+        </div>
+    </header>
+    <nav id="navegation"></nav>
+    <main id="post">
+            <!-- <h2 class="post">Acompanhe nossa transcrição ou <a class="description" href="#description">siga para a descrição<i class="bi bi-journal-arrow-down"></i></a> </h2> -->
+            <article id="transcript"></article>
+    </main>
+    <div id="float-banner" class="float-banner">
+        <a href="#box"><img id="up-btn" src="/public/images/double-arrow.webp" alt="voltar para o começo"></a>
+    </div>
+    
+    <!-- <footer>
+        <nav>
+            <div class="nav">
+                <a class="nav-btn" type="button" href="../../../index.html#episodes"><span>EPISÓDIOS </span></a>
+                <a class="nav-btn" type="button" href=''><span>SOBRE </span></a>
+            </div>
+        </nav>    
+        <h4> 2022 @ Admirável Cristão Novo </h4>
+        <img id="img-footer" src="../../../public/images/Nean_deer_Thal-fundo-off.svg" alt="Nean deer Thal, o Mascote">
+    </footer> -->
+    <aside id="player-podcast"></aside>
+    <script>
+        let file = '../../../public/transcript/episode_2.html';
+        fetch (file)
+        .then(x => x.text())
+        .then(y => document.getElementById('transcript').innerHTML = y);
+    </script>
+
+    <script>
+        $(function(){
+        $("#player-podcast").load("../layout/episodio2/player2.html"); 
+        });
+        $(function(){
+        $("#navegation").load("../layout/episodio2/nav-ep2.html"); 
+        });
+    </script>
+    <script src="/scripts/index.js"></script>
+    
+</body>
+</html>

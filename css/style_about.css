@@ -33,26 +33,6 @@ header {
     justify-content: center;
 }
 
-h1.welcome {
-    display:flex;
-    font-family: Alegreya;
-    font-size: 2.2rem;
-    width: 100%;
-    align-self: center;
-    padding: 1em;
-    text-align: center;
-    color: #0000ff;
-    margin-top: -1em;
-}
-
-h2.sub {
-    font-family: Roboto, sans-serif;
-    font-size: 1.2rem;
-    text-align: center;
-    color: #000;
-    font-weight: 500;
-}
-
 img.nean {
     width: 20em;
     height: 20em;
@@ -64,9 +44,39 @@ img.nean {
 .anotherContent {
   margin-top: 2em;
 }
-section#episodes {
-    padding-top: 3%;
+
+main {
+    width: 90%;
 }
+
+h1{
+    display:flex;
+    font-family: Oxygen, sans-serif;
+    font-weight: 900;
+    font-size: 2.2rem;
+    width: 100%;
+    align-self: center;
+    padding-left: 3.5em;
+    text-align: center;
+    color: #0000ff;
+    margin-top: 1.5em;
+}
+
+pre {
+    width: 100%;
+    margin-top: 3em;
+    margin-bottom: 1em;
+    font-family: PT Sans, Arial, Helvetica, sans-serif;
+    white-space: pre-line;
+    background-color: #fff;
+    line-height: 1.5;
+    font-size: 1rem;
+    text-align: justify;
+    right: 0;
+    left:0;
+    padding: 0 1em 0 8em;
+
+} 
 
 footer {
     display: flex;
@@ -97,46 +107,8 @@ footer h4 {
     height: 6em;
 }
 
-/* CARDS */
-section {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-a#read-more {
-  text-decoration: none;
-  display: flex;
-
-}
-
-.read {
-  color: rgb(119, 119, 119);
-}
-.read:hover {
-  color: #0000ff;
-}
-
-.bi {
-  color: #0000ff;
-  font-size: 1.5rem;
-}
-
-.dot-arrow {
-  display: none;
-  transform: translateY(-0.3em);
-}
-
-.bi-arrow-right-short {
-  margin-left: -0.6em;
-}
 
 @media (max-width: 1140px) {
-    h2 {
-        padding:0
-    }
-
     img.nean {
         width: 18em;
         height: 18em;
@@ -153,39 +125,11 @@ a#read-more {
    
     }
 
-    .welcome {
-      width: 40%;
-      padding: 2em;
-    }
-    
-    h2 {
-        padding: 1rem;
-    }
-
     nav {
         padding: 20px;
 
     }
 }
-
-@media (max-width: 640px) {
-
-
-      .welcome {
-        padding-bottom: 0;
-        margin-top: -2em;
-        font-size: 1.8rem;
-      }
-
-      .sub{
-        margin-left: 4em;
-        padding-top: 0.5em ;
-        margin-top: -1em;
-        width: 70%;
-      }
-
-  }
-
 
 @media (max-width: 425px) {
     header {
@@ -205,14 +149,6 @@ a#read-more {
         margin-left: 0.1em;
         font-size: 1.4rem;
         width:100%
-    }
-    
-    h2.sub {
-        padding: 1.5em;
-        font-family: PT Sans, sans-serif;
-        font-size: 1rem;
-        text-align: justify;
-        bottom: 0;
     }
 
     nav {

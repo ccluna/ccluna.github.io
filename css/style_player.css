@@ -2,7 +2,7 @@
 #remove-player{
     display: grid;  
     margin-top: -35px;
-    transform: translateY(3.5em);  
+    transform: translateY(4.5em);  
 }
 
 .remove {
@@ -40,7 +40,7 @@ i {
     height: 4rem;
 }
 
-.pause {
+.play {
     display: none;
 }
 
@@ -162,8 +162,8 @@ i {
     align-items: center;
     height: 1em;
     width: 15em ;
-    margin-top: 8px;
-    transform: translateX(3em);
+    margin-top: 19px;
+    transform: translateX(5em);
 }
 
 #volume {

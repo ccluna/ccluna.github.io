@@ -15,3 +15,23 @@ var myScrollFunc = function() {
 };
 
 window.addEventListener('scroll', myScrollFunc);
+
+// CARD
+window.onload = function() {
+    var card = window.document.getElementsByClassName(".card-content") ;
+     card.addEventListener("mouseover", function() {
+             document.getElementsByClassName(".card-title").style.color = 'blue'
+    });
+	card.addEventListener("mouseout", function() {
+		document.getElementsByClassName(".card-title").style.color = 'black'
+	});
+}
+
+var read = window.document.getElementsByClassName('.read');
+read.addEventListener('mouseover', function(){
+	document.getElementsByClassName('.dot-arrow').style.display = 'inline'
+});
+read.addEventListener('mouseout', function() {
+	document.getElementsByClassName('.dot-arrow').style.display = 'none'
+});
+

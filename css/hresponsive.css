@@ -1,0 +1,28 @@
+@media (max-width: 425px) {
+    
+    header {
+        align-items: center;
+    }
+    
+    img.nean {
+        width: 15em;
+        height: 15em;
+    }
+
+    h1 {
+        display: block;
+        white-space: pre-line;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    h2.sub {
+        padding: 1.5em;
+        font-family: Roboto, sans-serif;
+        font-size: 1rem;
+        text-align: center;
+        bottom: 0;
+    }
+}
+ 

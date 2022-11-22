@@ -2,6 +2,7 @@
 /* eslint-disable no-undef */
 
 //VARIÁVEIS
+let playPodcast = document.querySelector('.play-btn')
 let audio = document.querySelector('audio');
 let seekBar = document.querySelector('#seek-bar');
 let playPause = document.querySelector('#btn');
@@ -16,8 +17,14 @@ let volumeMaxBtn = document.querySelector('.vol-max');
 let muted = document.querySelector('.muted');
 let volumeBar = document.querySelector('#vol');
 let volControler = document.querySelector('#vol-bar');
-let removeBtn = document.querySelector('.remove');
+let removeBtn = document.querySelector('#remove-player');
 let aside = document.querySelector('aside');
+
+// TOCAR O PROGRAMA NO SITE 
+playPodcast.addEventListener('click', ()=> {
+	aside.style.display = 'block';
+	audio.play();
+});
 
 //PLAY E PAUSE
 playPause.addEventListener('click', () => {

@@ -1,0 +1,41 @@
+  <div id="remove-player">
+    <img class="playerBtn remove" src="../../public/images/remove.svg" title="Remover o Player" alt="remover o player">
+  </div>
+  
+  <section id="player">
+    <div id="controls">
+      <img class="playerBtn backward" src="../../public/images/backward.svg" title="Voltar 10 segundos" alt="voltar 10 segundos"/>
+      <div id="btn">
+        <img class="playerBtn play" src="../../public/images/play.svg" title="Play" alt="tocar" />
+        <img class="playerBtn pause" src="../../public/images/pause.svg" title="Pause" alt="pausar" />
+      </div>
+      <img class="playerBtn foward" src="../../public/images/foward.svg" title="Avançar 10 segundos" alt="avançar 10 segundos"/>
+    </div>
+  </section>
+  <div id="player-container">
+    <section id="episode">
+      <h2>Capítulo 2:</h2>
+      <i>Quando a Zoeira Não Tem Fim... Mas Deveria</i>
+    </section>
+    <section id="duration">
+      <div id="progress">
+        <input type="range" value="0" id="seek-bar" class="slider">
+      </div>
+      <div id="time">
+        <p id="start">--:--</p>
+        <p id="end">--:--</p>
+      </div>
+    </section>
+    <section id="vol-controls">
+      <div id="volume">
+        <img class="vol-max vol playerBtn" src="../../public/images/vol-max.svg" title="Mutar" alt="tocando" />
+        <img class="muted vol playerBtn" src="../../public/images/muted.svg" title="Desmutar" alt="mutado"/>
+      </div>
+      <div id="vol-bar">
+        <input type="range" min="0" max="100" id="vol" class="slider">
+      </div>
+    </section>
+    <audio preload="auto" src="https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-9-11/223863675-44100-2-9dad957c38799.m4a"></audio>
+  </div>
+
+<script src="/scripts/player.js"></script>
