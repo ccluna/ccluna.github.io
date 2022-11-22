@@ -3,7 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:ital,wght@0,400;0,700;1,200;1,500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oxygen:ital,wght@0,400;0,700;1,200;1,500&display=swap');
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
-@import url('nav.css');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+
 
 *{
     box-sizing: border-box;
@@ -18,6 +19,13 @@ body {
     -webkit-font-smoothing: antialiased;
     width: 100vw;
     font-weight: initial;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 header {
@@ -47,6 +55,10 @@ img.nean {
 
 main {
     width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
 }
 
 h1{
@@ -63,6 +75,7 @@ h1{
 }
 
 pre {
+    display: inline-block;
     width: 100%;
     margin-top: 3em;
     margin-bottom: 1em;
@@ -94,6 +107,193 @@ footer img {
     margin-top: -1em;
 }
 
+
+nav.nav-header {
+    display: flex;
+    justify-content:space-between;
+    align-content: space-between;
+    justify-items: stretch;
+    padding: 3em;
+
+}
+
+div.nav {
+    display: flex;
+}
+
+a.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 8.5em;
+    height: 3em;
+    margin-left: 3em;
+    border: none;
+    border-radius: 3em;
+    background-color: rgba(35, 35, 36, 0.678);
+    color: rgb(240, 240, 240);
+    cursor: pointer;
+    transition: all 0.5s;
+    font-family: PT Sans, sans-serif;
+    font-size: 0.9em;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+a.button:hover {
+    background-color: rgba(35, 35, 36);
+}
+
+a.button span #apps {
+    cursor: pointer;
+    position: relative;
+    transition: 0.5;
+}
+
+a.header span:after {
+    content: '\F280';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+   
+    transition: 0.5s;
+}
+
+a.header:hover span{
+    padding-right: 1.5em;
+}
+
+a.header:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+#apps {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 0.5em;
+    margin-top: -0.5em; 
+    margin-left: 20em;
+}
+
+a.listen-on {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(35, 35, 36, 0.678);
+    color: rgb(240, 240, 240);
+    border-radius: 0.8em;
+    height: 1.8em;
+    width: 10em;
+    font-family: Roboto, sans-serif;
+    text-decoration: none;
+}
+
+img.app {
+    width: 2.2em;
+    height: 2.2em;
+}
+
+span.name-app {
+    font-family: Roboto, sans-serif;
+    font-size: 0.8em;
+    font-weight: 900;
+    margin-left: -0.5em;
+}
+
+a.listen-on:hover {
+    background-color: rgba(35, 35, 36);
+}
+
+/* NAV DO FOOTER */
+
+a.footer span:after {
+    content: '\F27F';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: -1em;
+    transition: 0.5s;
+}
+
+a.footer:hover span{
+    padding-left: 1.5em;
+}
+
+a.footer:hover span:after {
+    opacity: 1;
+    left: 0;
+}
+
+@media (max-width: 1140px) {
+    nav.nav-header {
+        padding-top: 0.5em;
+    }
+
+
+}
+@media (max-width: 1024px){
+    html {
+        font-size: 70%;
+    }
+    nav.nav-header {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #apps{
+        margin-top: 2.5em;
+        margin-left: 0;
+    }
+    main {
+        width: 40%;
+    }
+
+}
+@media (max-width: 425px) {
+    
+    .nav-header {
+        margin-top: 1em;
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    div.nav {
+        margin-top: -2em;
+    }
+
+    a.button {
+        width: 7em;
+        height: 3em;
+        font-size: 0.7;
+        margin-left: 3em;
+    }
+
+    #apps {
+        transform: translateX(1em);
+        margin-top: 1em;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+    }
+
+    a.listen-on {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(35, 35, 36, 0.678);
+        color: rgb(240, 240, 240);
+        border-radius: 0.8em;
+        height: 1.5em;
+        width: 8.5em;
+    }
+}
+
+
 @media (max-width: 1140px) {
     img.nean {
         width: 18em;
@@ -115,6 +315,16 @@ footer img {
         padding: 20px;
 
     }
+    h1{
+        align-self: center;
+        padding-left: 0;
+
+    }
+    
+    pre {
+        padding: 0;
+    
+    } 
 }
 
 @media (max-width: 425px) {
